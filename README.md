@@ -15,7 +15,7 @@ The code and data relevant to the COLING 2025 paper are maintained in this repos
 ***
 
 ## To reproduce the results ##
-You need to collect zero-shot results.
+* First, collect zero-shot results. Use zero_shot_gpt.py to invoke GPT models and zero_shot_{llama, mistral}.py for Llama and Mistral models. The `zs_tsv` directory stores the result tab-separated files. The naming convention for these files is `{LLM_name}_{Adjective}_{Data_split}_{Run_ID}.tsv`.
 
 ## Directories
 * **WiC_dataset**: This directory maintains the original Word-in-Context dataset. Please refer to the original WiC paper for details.
