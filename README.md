@@ -20,6 +20,7 @@ The code and data relevant to the COLING 2025 paper are maintained in this repos
   * Python 3.8.10
   * openai 0.27.7
   * ray 2.6.2
+  * transformers 4.43.2
   * Other standard libraries such as numpy, pandas, sklearn, etc.
 
 ## WiC dataset 
