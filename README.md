@@ -24,7 +24,7 @@ The code and data relevant to the COLING 2025 paper are maintained in this repos
 ***
 ## Directories
 * **WiC_dataset**: This directory maintains the original Word-in-Context dataset. Please refer to the original WiC paper for details.
-  * M.T. Pilehvar and J. Camacho-Collados, "WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations," NAACL 2019.
+  * M.T. Pilehvar and J. Camacho-Collados, [WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations.](https://aclanthology.org/N19-1128/), NAACL 2019.
   * https://pilehvar.github.io/wic/
   
 ## Python scripts
