@@ -14,9 +14,10 @@ The code and data relevant to the COLING 2025 paper are maintained in this repos
 
 ***
 
-## To reproduce the results ##
-* First, collect zero-shot results. Use zero_shot_gpt.py to invoke GPT models and zero_shot_{llama, mistral}.py for Llama and Mistral models. The `zs_tsv` directory stores the result tab-separated files. The naming convention for these files is `{LLM_name}_{Adjective}_{Data_split}_{Run_ID}.tsv`.
-
+## To reproduce the reported results ##
+* First, collect zero-shot results. Use zero_shot_gpt.py to invoke GPT models and zero_shot_{llama, mistral}.py for Llama and Mistral models. The `zs_tsv` directory stores the result tab-separated files. The naming convention for these files is `{LLM_name}_{Adjective}_{Data_split}_{Run_ID}.tsv`. Note that the `Run_IDs` are currently fixed to `323`.
+** Remember to set your OpenAI API key in the environment variable to use the GPT models.
+* 
 ## Directories
 * **WiC_dataset**: This directory maintains the original Word-in-Context dataset. Please refer to the original WiC paper for details.
   * M.T. Pilehvar and J. Camacho-Collados, [WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations.](https://aclanthology.org/N19-1128/), NAACL 2019.
