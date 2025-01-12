@@ -7,7 +7,7 @@ The code and data relevant to the COLING 2025 paper are maintained in this repos
 
 ***
 ## To reproduce the reported results ##
-* First, collect zero-shot results. Use zero_shot_gpt.py to invoke GPT models and zero_shot_{llama, mistral}.py for Llama and Mistral models. The `zs_tsv` directory stores the result tab-separated files. The naming convention for these files is `{LLM_name}_{Adjective}_{Data_split}_{Run_ID}.tsv`. Note that the `Run_IDs` are currently fixed to `323`.
+* To begin with, **collect zero-shot results**. Use zero_shot_gpt.py to invoke GPT models and zero_shot_{llama, mistral}.py for Llama and Mistral models. The `zs_tsv` directory stores the result tab-separated files. The naming convention for these files is `{LLM_name}_{Adjective}_{Data_split}_{Run_ID}.tsv`. Note that the `Run_IDs` are currently fixed to `323`.
     * Remember to set your OpenAI API key in the environment variable to use the GPT models.
 * **Table 1:** You can use the `for_paper` function in `read_summ.py`.
 * **Table 2 and 3:** The `for_paper` function in `fleiss2.py` can be used. Specify `fleiss2.predictor_comb_set` as the argument to replicate Table 2 and `fleiss2.predictor_adj_set` to reproduce Table 3.
