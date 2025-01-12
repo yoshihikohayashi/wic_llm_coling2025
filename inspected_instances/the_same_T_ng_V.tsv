@@ -1,0 +1,36 @@
+	id	w	p	l	c1	c2	pred
+15	15	bell	V	T	Bell cows .	Who will bell the cat ?	F
+18	18	analyze	V	T	Analyze your real motives .	The inspector analyzed the building 's soundness .	F
+43	43	return	V	T	Return her love .	Return a compliment .	F
+45	45	clutch	V	T	To clutch power .	She clutched her purse .	F
+61	61	replicate	V	T	On entering a host cell , a virus will start to replicate .	Replicate the cell .	T
+78	78	stay	V	T	Wear gloves so your hands stay warm .	Stay with me , please .	F
+87	87	compress	V	T	The force required to compress a spring varies linearly with the displacement .	She compressed her lips .	F
+147	147	excite	V	T	There are drugs designed to excite certain nerves in our body .	Excite the audience .	F
+154	154	cocoon	V	T	She loves to stay at home and cocoon .	Families cocoon around the T.V. set most evenings .	T
+155	155	build	V	T	Build up confidence .	They had to build up their fortress to protect against attack .	T
+177	177	toss	V	T	I 'll toss you for it .	Steve tossed John the ball .	F
+195	195	embellish	V	T	To embellish a story , the truth .	The old book cover was embellished with golden letters .	F
+205	205	consult	V	T	They had to consult before arriving at a decision .	Consult your local broker .	F
+212	212	proliferate	V	T	We must not proliferate nuclear arms .	The flowers proliferated rapidly all spring .	F
+230	230	accumulate	V	T	He wishes to accumulate a sum of money .	Journals are accumulating in my office .	F
+256	256	stop	V	T	Stop a car .	Stop the thief .	T
+299	299	configure	V	T	Configure a plane for a combat mission .	Configure my new computer .	F
+338	338	liberate	V	T	To liberate the mind from prejudice .	To liberate gases .	F
+339	339	trip	V	T	A pedestrian was able to trip the burglar as he was running away .	The questions on the test tripped him up .	F
+373	373	go	V	T	How did your interview go ?	She was going that way anyway , so she offered to show him where it was .	F
+388	388	leave	V	T	Leave lots of time for the trip .	This leaves no room for improvement .	F
+395	395	gargle	V	T	Gargle with this liquid .	Every morning he gargled a little cheap Scotch .	T
+430	430	segment	V	T	Segment a compound word .	Segment an orange .	F
+449	449	hang	V	T	Let 's hang this cute animal in the nursery .	Hang wallpaper .	F
+461	461	want	V	T	Want the strength to go on living .	Flood victims wanting food and shelter .	T
+478	478	bite	V	T	Gunny invariably tried to bite her .	As soon as you bite that sandwich , you 'll know how good it is .	F
+483	483	gnash	V	T	To gnash the air in fury .	To gnash a carpet .	F
+486	486	brush	V	T	Brush aside the objections .	Brush the dust from the jacket .	F
+515	515	segregate	V	T	Experiments show clearly that genes segregate .	Many towns segregated into new counties .	F
+548	548	fold	V	T	Fold up the newspaper .	Tony folded the flaps open .	F
+560	560	hail	V	T	Hail a cab .	He was hailed as a hero .	F
+562	562	expect	V	T	I expect to receive wages .	We were expecting a visit from our relatives .	T
+613	613	sexualize	V	T	Some languages sexualize all nouns and do not have a neuter gender .	The god was sexualized and married to another god .	F
+620	620	update	V	T	I need to update my records to take account of the most recent transaction .	We updated the kitchen in the old house .	F
+627	627	buy	V	T	$ 50 wo n't even buy a dress .	FMC has bought 565 .	F

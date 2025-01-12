@@ -1,0 +1,32 @@
+	id	w	p	l	c1	c2	pred
+18	18	analyze	V	T	Analyze your real motives .	The inspector analyzed the building 's soundness .	F
+39	39	opinion	N	T	In my opinion , white chocolate is better than milk chocolate .	I would like to know your opinions on the new systems .	F
+45	45	clutch	V	T	To clutch power .	She clutched her purse .	F
+60	60	average	N	T	He is about average in height .	The snowfall this month is below average .	F
+68	68	jockey	N	T	He 's a truck jockey .	A disc jockey .	F
+112	112	intention	N	T	The intention of this legislation is to boost the economy .	Good intentions are not enough .	F
+177	177	toss	V	T	I 'll toss you for it .	Steve tossed John the ball .	F
+195	195	embellish	V	T	To embellish a story , the truth .	The old book cover was embellished with golden letters .	F
+202	202	revenge	N	T	Indifference is the sweetest revenge .	When I left my wife , she tried to set fire to the house in revenge .	F
+205	205	consult	V	T	They had to consult before arriving at a decision .	Consult your local broker .	F
+213	213	hew	V	T	Hew out a path in the rock .	One of the most widely used typefaces in the world was hewn by the English printer and typographer John Baskerville .	F
+230	230	accumulate	V	T	He wishes to accumulate a sum of money .	Journals are accumulating in my office .	F
+263	263	whimsy	N	T	Whimsy can be humorous to someone with time to enjoy it .	He had a whimsy about flying to the moon .	F
+299	299	configure	V	T	Configure a plane for a combat mission .	Configure my new computer .	F
+344	344	comb	V	T	Comb the wool .	Comb your hair before dinner .	F
+370	370	pay	N	T	He wasted his pay on drink .	Many employers have rules designed to keep employees from comparing their pays .	F
+384	384	homogenization	N	T	The homogenization of cream .	The network 's homogenization of political news .	F
+404	404	foot	N	T	We went there by foot because we could not afford a taxi .	There is a lot of foot traffic on this street .	F
+423	423	escalation	N	T	Higher wages caused an escalation of prices .	There was a gradual escalation of hostilities .	F
+461	461	want	V	T	Want the strength to go on living .	Flood victims wanting food and shelter .	F
+478	478	bite	V	T	Gunny invariably tried to bite her .	As soon as you bite that sandwich , you 'll know how good it is .	F
+489	489	kinship	N	T	Anthropology 's kinship with the humanities .	Felt a deep kinship with the other students .	F
+502	502	allowance	N	T	My weekly allowance of two eggs .	Travel allowance .	F
+515	515	segregate	V	T	Experiments show clearly that genes segregate .	Many towns segregated into new counties .	F
+533	533	assumption	N	T	The Nazi assumption of power in 1934 .	He acquired all the company 's assets for ten million dollars and the assumption of the company 's debts .	F
+548	548	fold	V	T	Fold up the newspaper .	Tony folded the flaps open .	F
+551	551	grind	V	T	Grind lenses for glasses and cameras .	Grind an axe .	F
+556	556	wrong	N	T	Injustice is a heinous wrong .	He feels that you are in the wrong .	F
+559	559	handle	V	T	Do n't handle the merchandise .	About his altar , handling holy things - John Milton .	F
+618	618	defense	N	T	They died in the defense of Stalingrad .	They were developed for the defense program .	F
+622	622	system	N	T	That language has a complex system for indicating gender .	They have to operate under a system they oppose .	F

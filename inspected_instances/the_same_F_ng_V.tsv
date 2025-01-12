@@ -1,0 +1,34 @@
+	id	w	p	l	c1	c2	pred
+1	1	circulate	V	F	Circulate a rumor .	This letter is being circulated among the faculty .	T
+67	67	seem	V	F	I seem to be misunderstood by everyone .	There seems no reason to go ahead with the project now .	T
+93	93	whitewash	V	F	Let 's not whitewash the crimes of Stalin .	In his sermon , the minister did n't try to whitewash over the sins of his church .	T
+111	111	militarize	V	F	Militarize the Civil Service .	Militarize Germany again after the war .	T
+113	113	submerge	V	F	Submerge your head completely .	The submarine submerged in the water .	T
+115	115	calibrate	V	F	Calibrate a gun .	He calibrated the thermometer for the Celsius scale .	F
+143	143	drag	V	F	Time seems to drag when you 're waiting for a bus .	The speech dragged on for two hours .	T
+159	159	watch	V	F	Put a little baking soda in some vinegar and watch what happens .	The world is watching Sarajevo .	F
+186	186	plan	V	F	Plan an attack .	He plans to be in graduate school next year .	F
+188	188	criticize	V	F	Those who criticize others often are not perfect , either .	The paper criticized the new movie .	T
+191	191	block	V	F	Block the signals emitted by this station .	The thick curtain blocked the action on the stage .	F
+193	193	point	V	F	Point a gun .	It 's rude to point at other people .	F
+218	218	fiddle	V	F	Do n't fiddle with the screws .	She always fiddles with her van on the weekend .	F
+236	236	seize	V	F	Birds of prey often seize small mammals .	The invaders seized the land and property of the inhabitants .	F
+253	253	ease	V	F	Ease the pain in your legs .	The pain eased overnight .	T
+276	276	affect	V	F	Will the new rules affect me ?	The medicine affects my heart rate .	F
+304	304	engrave	V	F	Engrave a letter .	Engrave a pen .	F
+332	332	scrub	V	F	Surgeons must scrub prior to an operation .	She scrubbed his back .	F
+357	357	fuss	V	F	Do n't fuss too much over the grandchildren -- they are quite big now .	She fusses over her husband .	F
+359	359	direct	V	F	Direct your anger towards others , not towards yourself .	He directed all his energies into his dissertation .	F
+428	428	average	V	F	If you average 10 , 20 and 24 , you get 18 .	The number of hours I work per work averages out to 40 .	T
+435	435	crush	V	F	To crush grapes .	The car crushed the toy .	F
+437	437	eliminate	V	F	Let 's eliminate the course on Akkadian hieroglyphics .	This possibility can be eliminated from our consideration .	F
+440	440	indent	V	F	Indent the documents .	Indent the paragraphs of a letter .	T
+446	446	spread	V	F	The invaders spread their language all over the country .	A big oil spot spread across the water .	F
+448	448	switch	V	F	Switch to a different brand of beer .	I want to switch this red dress for a green one .	F
+496	496	flip	V	F	I 'd flip if anyone broke my phone .	He flipped when he heard that he was accepted into Princeton University .	F
+503	503	transplant	V	F	These delicate plants do not transplant easily .	Transplant the young rice plants .	F
+517	517	scavenge	V	F	Hyenas scavenge .	She scavenged the garbage cans for food .	T
+535	535	recruit	V	F	Recruit new soldiers .	The lab director recruited an able crew of assistants .	T
+552	552	wail	V	F	Wail in self - pity .	She wailed with pain .	T
+579	579	bend	V	F	The stick does not bend .	Bend your knees .	F
+581	581	worship	V	F	They worship in the traditional manner .	Many Hindus worship Shiva .	T

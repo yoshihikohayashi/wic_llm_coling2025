@@ -1,0 +1,207 @@
+	id	w	p	l	c1	c2	pred
+2	2	hook	V	T	Hook a fish .	He hooked a snake accidentally , and was so scared he dropped his rod into the water .	T
+8	8	mark	N	T	He left an indelible mark on the American theater .	It was in London that he made his mark .	T
+11	11	glaze	V	T	Glaze the bread with eggwhite .	The potter glazed the dishes .	T
+19	19	lecture	V	T	Did you ever lecture at Harvard ?	She lectured to the class about her travels .	T
+20	20	rehearsal	N	T	A rehearsal will be held the day before the wedding .	He missed too many rehearsals .	T
+21	21	forge	V	T	We decided to forge ahead with our plans even though our biggest underwriter backed out .	He forged ahead .	T
+22	22	falsity	N	T	The belief that the world is flat is a falsity .	Argument could not determine its truth or falsity .	T
+26	26	risk	V	T	I can not risk smoking .	Why risk your life ?	T
+27	27	chemistry	N	T	The chemistry of indigo .	The chemistry of iron .	T
+30	30	excuse	N	T	That thing is a poor excuse for a gingerbread man . Has n't anyone taught you how to bake ?	He 's a sorry excuse of a doctor .	T
+31	31	bondage	N	T	He sought release from his bondage to Satan .	A self freed from the bondage of time .	T
+35	35	daughter	N	T	I already have a son , so I would like to have a daughter .	Her daughter cared for her in her old age .	T
+36	36	hold	V	T	Please hold a table at Maxim 's .	Hold a table for us at 7:00 .	T
+37	37	banish	V	T	Banish bad thoughts .	Banish gloom .	T
+38	38	sense	N	T	A keen musical sense .	A good sense of timing .	T
+40	40	deed	N	T	He signed the deed .	I inherited the deed to the house .	T
+52	52	cushion	V	T	To cushion a blow .	Cushion the blow .	T
+55	55	recrudescence	N	T	A recrudescence of racism .	A recrudescence of the symptoms .	T
+56	56	metadata	N	T	Most websites contain metadata to tell the computer how to lay the words out on the screen .	A library catalog is metadata because it describes publications .	T
+58	58	elapse	V	T	He allowed a month to elapse before beginning the work .	Several days elapsed before they met again .	T
+64	64	straggle	N	T	A straggle of followers .	A straggle of outbuildings .	T
+65	65	torture	N	T	In every war there are acts of torture that cause the world to shudder .	Using large dogs to attack bound , hand - cuffed prisoners is clearly torture .	T
+69	69	sugar	V	T	Sugar your tea .	John heavily sugars his coffee .	T
+70	70	load	V	T	Load a car .	Load the truck with hay .	T
+74	74	modify	V	T	Please modify this letter to make it more polite .	He modified his views on same - gender marriage .	T
+75	75	loose	V	T	Let loose mines .	Loose terrible plagues upon humanity .	T
+77	77	invasion	N	T	An invasion of locusts .	An invasion of tourists .	T
+79	79	chore	N	T	Washing dishes is a chore , but we can not just stop eating .	The farmer 's morning chores .	T
+83	83	push	V	T	You need to push quite hard to get this door open .	Nora pushed through the crowd .	T
+85	85	share	V	T	Our children share a love of music .	The two countries share a long border .	T
+94	94	bridge	N	T	Her glasses left marks on the bridge of her nose .	Rugby players often break the bridge of their noses .	T
+95	95	adoxography	N	T	Elizabethan schoolboys were taught adoxography , the art of eruditely praising worthless things .	Adoxography is particularly useful to lawyers .	T
+96	96	dexterity	N	T	She twirled the knife through her fingers with impressive dexterity .	Playing computer games can improve your manual dexterity .	T
+102	102	applaud	V	T	I applaud your efforts .	Although we do n't like your methods , we applaud your motives .	T
+114	114	amuse	V	T	I watch these movies because they amuse me .	The clown amused the children .	T
+116	116	circumference	N	T	A danger to all races over the whole circumference of the globe .	He had walked the full circumference of his land .	T
+117	117	tap	V	T	Tap a keg of beer .	Tap a maple tree for its syrup .	T
+118	118	branch	N	T	We opened a new branch in London .	Our main branch is downtown .	T
+119	119	peradventure	N	T	This proves beyond peradventure that he is innocent .	Proved beyond peradventure . — South .	T
+120	120	finish	N	T	My horse was several lengths behind at the finish .	The winner is the team with the most points at the finish .	T
+122	122	month	N	T	He was given a month to pay the bill .	We went on holiday for two months .	T
+123	123	contradistinction	N	T	Sculpture in contradistinction to painting .	We used hamburgers and soda in contradistinction to healthy food .	T
+127	127	exhibition	N	T	There was an art exhibition on in the town hall .	A boat exhibition .	T
+129	129	maneuver	N	T	He made a great maneuver .	Parallel parking can be a difficult maneuver .	T
+132	132	knuckleball	N	T	Even the pitcher does n't know where his knuckleball is going .	Boston Red Sox pitcher Tim Wakefield is best known for his use of the knuckleball .	T
+136	136	shock	V	T	To shock rye .	Shock grain .	T
+137	137	tipper	N	T	A generous tipper .	The Americans are among the most generous tippers in the world .	T
+139	139	button	N	T	"The politician wore a bright yellow button with the slogan "" Vote Smart "" emblazoned on it ."	They passed out campaign buttons for their candidate .	T
+141	141	boot	V	T	Boot your computer .	When arriving at the office , first thing I do is booting my machine .	T
+145	145	literature	N	T	One aspect of Waterloo has not yet been treated in the literature .	The technical literature .	T
+150	150	date	V	T	Scientists often can not date precisely archeological or prehistorical findings .	To date the building of the pyramids .	T
+153	153	spade	N	T	She led a low spade .	Spades were trumps .	T
+154	154	cocoon	V	T	She loves to stay at home and cocoon .	Families cocoon around the T.V. set most evenings .	T
+156	156	winterize	V	T	Winterize cars .	Winterize your houses .	T
+161	161	conceive	V	T	She can not conceive .	Assisted procreation can help those trying to conceive .	T
+163	163	percolate	V	T	Percolate coffee .	I 'll percolate some coffee .	T
+167	167	fight	N	T	A fight broke out at the hockey game .	There were fights in the streets .	T
+168	168	breed	N	T	He experimented on a particular breed of white rats .	A breed of animal .	T
+169	169	mainstream	N	T	His thinking was in the American mainstream .	His ideas were well outside the mainstream , but he presented them intelligently , and we were impressed if not convinced .	T
+171	171	cognate	N	T	English is a cognate of Greek , German , Russian and Persian .	English and , Russian , Icelandic and Irish are all cognates .	T
+172	172	convey	V	T	To convey information .	She conveyed the message to me .	T
+174	174	protest	N	T	The senator rose to register his protest .	They finished the game under protest to the league president .	T
+175	175	operation	N	T	The plane 's operation in high winds .	The power of its engine determines its operation .	T
+179	179	delta	N	T	The Nile delta .	The Mississippi River delta .	T
+180	180	sign	V	T	Please sign on the dotted line .	Please sign here .	T
+185	185	cup	N	T	He put the cup back in the saucer .	The handle of the cup was missing .	T
+190	190	stream	N	T	He felt a stream of air .	The hose ejected a stream of water .	T
+192	192	obstacle	N	T	Lack of imagination is an obstacle to one 's advancement .	The poverty of a district is an obstacle to good education .	T
+194	194	draw	N	T	The luck of the draw .	They anticipated a tough draw .	T
+197	197	shuffle	V	T	You shuffle , I 'll deal .	Shuffle the cards .	T
+200	200	abridge	V	T	The new law might abridge our freedom of expression .	He had his rights abridged by the crooked sheriff .	T
+203	203	review	V	T	Let 's review your situation .	Before I tackle the question directly , I must briefly review historical approaches to the problem .	T
+207	207	liberty	N	T	At liberty to choose whatever occupation one wishes .	Liberty to think or feel or do just as one pleases .	T
+208	208	answer	V	T	Answer the question .	She did n't want to answer .	T
+209	209	carve	V	T	Carve one 's name into the bark .	That chisel carved the statue .	T
+211	211	donate	V	T	Donate money to the orphanage .	I donated blood to the Red Cross for the victims of the earthquake .	T
+214	214	keep	V	T	Can I keep my old stuffed animals ?	She kept her maiden name after she married .	T
+216	216	shot	N	T	He trained at putting the shot .	The shot flew twenty metres , and nearly landed on the judge 's foot .	T
+220	220	minister	N	T	The minister said a prayer on behalf of the entire congregation .	Clergymen are usually called ministers in Protestant churches .	T
+222	222	abatement	N	T	The abatement of a nuisance is the suppression thereof .	Laws enforcing noise abatement .	T
+224	224	chew	V	T	The steak was tough to chew as it had been cooked too long .	Chew your food and do n't swallow it !	T
+225	225	conclusion	N	T	The conclusion of the peace treaty .	The conclusion of a business deal .	T
+227	227	marriage	N	T	A marriage of ideas .	The marriage of music and dance .	T
+228	228	button	N	T	"Pat pushed the button marked "" shred "" on the blender ."	The elevator was operated by push buttons .	T
+229	229	plant	V	T	Plant bugs in the dissident 's apartment .	Plant a spy in Moscow .	T
+241	241	sit	V	T	When does the court of law sit ?	In what city is the circuit court sitting for this session .	T
+242	242	command	V	T	To command an army or a ship .	Command the military forces .	T
+244	244	last	V	T	Summer seems to last longer each year .	The bad weather lasted for three days .	T
+245	245	lead	N	T	A good lead for a job .	Joe is a great addition to our sales team , he has numerous leads in the paper industry .	T
+246	246	contact	V	T	I am trying to contact my sister .	He never contacted his children after he emigrated to Australia .	T
+250	250	bastion	N	T	The last bastion of communism .	A bastion against corruption .	T
+251	251	admit	V	T	Admit someone to the profession .	She was admitted to the New Jersey Bar .	T
+255	255	save	N	T	The relief pitcher got credit for a save .	The goalie made a brilliant save .	T
+259	259	advantage	N	T	The enemy had the advantage of a more elevated position .	The experience gave him the advantage over me .	T
+261	261	allowance	V	T	The captain was obliged to allowance his crew .	Our provisions were allowanced .	T
+267	267	vote	V	T	I vote that we all go home .	She voted for going to the Chinese restaurant .	T
+269	269	partnership	N	T	The action teams worked in partnership with the government .	Effective language learning is a partnership between school , teacher and student .	T
+273	273	fuel	N	T	More fuel is needed during the winter months .	They developed alternative fuels for aircraft .	T
+274	274	peg	V	T	Let 's peg the rug to the floor .	Peg a tent .	T
+278	278	cost	N	T	The average cost of a new house is twice as much as t was 20 years ago .	The total cost of the new complex was an estimated $ 1.5 million .	T
+281	281	sort	N	T	She served a creamy sort of dessert thing .	She wore a sort of magenta dress .	T
+282	282	refrigerate	V	T	Please refrigerate your uncooked meats at or below 40 Fahrenheit .	Refrigerate this medicine .	T
+283	283	ash	N	T	The woods planted in ash will see a different mix of species .	The ash trees are dying off .	T
+287	287	capital	N	T	The drug capital of Columbia .	The crime capital of Italy .	T
+295	295	result	V	T	Result in tragedy .	This measure will result in good or in evil .	T
+296	296	story	N	T	The book tells the story of two roommates .	Disney 's stories entertain adults as well as children .	T
+305	305	blend	N	T	` smog ' is a blend of ` smoke ' and ` fog ' .	Their music has been described as a blend of jazz and heavy metal .	T
+311	311	remover	N	T	Rust remover .	Paint remover .	T
+314	314	donate	V	T	Some of the members may donate privately .	She donates to her favorite charity every month .	T
+315	315	earshot	N	T	I 'll row out on the lake but stay within earshot .	The children were told to stay within earshot .	T
+317	317	member	N	T	Canada is a member of the United Nations .	The library was a member of the interlibrary loan association .	T
+320	320	moderate	V	T	To moderate a synod .	John moderated the discussion .	T
+324	324	afford	V	T	We ca n't afford to send our children to college .	Can you afford this car ?	T
+327	327	continent	N	T	Pioneers had to cross the continent on foot .	There are seven continents .	T
+334	334	wine	N	T	She ordered some wine for the meal .	Wine is stronger than beer .	T
+336	336	cuisine	N	T	The restaurant is noted for its excellent cuisine .	French cuisine is considered to be one of the world 's most refined and elegant styles of cooking .	T
+340	340	ball	N	T	The ball at the base of the thumb .	He stood on the balls of his feet .	T
+341	341	move	N	T	It 's your move ! Roll the dice !	If you roll a six , you can make two moves .	T
+350	350	leave	V	T	Leave your child the nurse 's care .	He left the decision to his deputy .	T
+352	352	lay	V	T	To lay a tax on land .	Lay a responsibility on someone .	T
+353	353	thing	N	T	A thing of the spirit .	Things of the heart .	T
+355	355	sign	V	T	Sign an intersection .	This road has been signed .	T
+360	360	characterize	V	T	You can characterize his behavior as that of an egotist .	This poem can be characterized as a lament for a dead lover .	T
+365	365	gown	N	T	The relations between town and gown are always sensitive .	In the perennial town versus gown battles , townies win some violent battles , but the collegians are winning the war .	T
+376	376	abuse	N	T	All abuse , whether physical , verbal , psychological or sexual , is bad .	The child showed signs of physical abuse .	T
+377	377	breeze	N	T	The breeze rustled the papers on her desk .	The breeze was cooled by the lake .	T
+378	378	floss	V	T	She flossed her teeth .	The hygienist flossed my teeth .	T
+387	387	military	N	T	Their military is the largest in the region .	He spent six years in the military .	T
+393	393	connection	N	T	The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train .	The plane was late and he missed his connection in Atlanta .	T
+394	394	mechanism	N	T	A mechanism of social control .	Mechanisms of communication .	T
+403	403	state	V	T	State your name .	State your opinion .	T
+407	407	need	V	T	I need him to be nice .	I needed him to go .	T
+410	410	urgency	N	T	They departed hurriedly because of some great urgency in their affairs .	I 'll be there , barring any urgencies .	T
+411	411	book	N	T	I am reading a good book on economics .	He was frustrated because he could n't find anything about dinosaurs in the book .	T
+417	417	mate	N	T	He 's my best mate .	I 'm going to the pub with a few mates .	T
+433	433	succession	N	T	A succession of failures .	A succession of stalls offering soft drinks .	T
+434	434	erase	V	T	The files will erase quickly .	The chalkboard erased easily .	T
+436	436	figure	V	T	Elections figure prominently in every government program .	How do the elections figure in the current pattern of internal politics ?	T
+439	439	cooperation	N	T	Economic cooperation .	They agreed on a policy of cooperation .	T
+441	441	militia	N	T	Their troops were untrained militia .	Congress shall have power to provide for calling forth the militia -- United States Constitution .	T
+443	443	bag	V	T	Bag a few pheasants .	We bagged three deer yesterday .	T
+444	444	herald	N	T	Rouge Dragon is a herald at the College of Arms .	The chieftain had a herald who announced his arrival with a trumpet .	T
+452	452	precaution	N	T	He put an ice pack on the injury as a precaution .	To take precautions against risks of accident .	T
+456	456	adhocracy	N	T	The need for informational flexibility can lead to adhocracy .	The choice between bureaucracy and adhocracy represents a common dilemma .	T
+459	459	poster	N	T	I saw a poster for it on the side of a bus .	A poster advertised the coming attractions .	T
+462	462	gauntlet	N	T	Threw down the gauntlet .	Took up the gauntlet .	T
+467	467	grunt	N	T	He went from grunt to chairman in six years .	Infantrymen in Vietnam were called grunts .	T
+468	468	toast	N	T	That toaster can make wonderful toasts .	I ate a piece of toast for breakfast .	T
+473	473	upgrade	N	T	The power plant received a new upgrade .	With my phone company , I get a free upgrade every twelve months if I keep topping up 10 pounds a month .	T
+479	479	finalize	V	T	Let 's finalize the proposal .	As soon as we get the plane tickets , we 'll finalize our reservations with the hotel .	T
+487	487	dad	N	T	He had n't seen his dad in years .	Dad , happy Father 's Day !	T
+498	498	usage	N	T	English usage .	A usage borrowed from French .	T
+499	499	gig	N	T	They played a gig in New Jersey .	Our guitar player had another gig so we had to get a sub .	T
+500	500	demon	N	T	She 's a demon at math .	He worked like a demon to finish the job on time .	T
+501	501	eccentricity	N	T	For an ellipse , the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi - major axis .	A circle is an ellipse with zero eccentricity .	T
+508	508	attend	V	T	I rarely attend services at my church .	She attends class regularly .	T
+509	509	oppression	N	T	The tyrant 's oppression of the people .	The oppression of the poor by the aristocracy was one cause of the French Revolution .	T
+510	510	tap	V	T	Tap a cask of wine .	He tapped a new barrel of beer .	T
+511	511	touch	V	T	Please can I have a look , if I promise not to touch ?	Carrie touched his shoulder with the stick .	T
+512	512	work	N	T	He was indebted to the pioneering work of John Dewey .	The work of an active imagination .	T
+518	518	manipulation	N	T	His manipulation of his friends was scandalous .	He found that the new manager was known for his Machiavellian manipulations in his last two positions .	T
+523	523	rank	N	T	The strike was supported by the union rank and file .	He rose from the ranks to become a colonel .	T
+527	527	forwarding	N	T	The forwarding of resumes to the personnel department .	The forwarding of mail to a new address is done automatically .	T
+528	528	fail	V	T	Did I fail the test ?	She studied hard but failed nevertheless .	T
+531	531	rail	N	T	He was concerned with rail safety .	He traveled by rail .	T
+532	532	preempt	V	T	Discussion of the emergency situation will preempt the lecture by the professor .	Live broadcast of the presidential debate preempts the regular news hour .	T
+536	536	upset	V	T	Truman upset Dewey in the 1948 US presidential election .	The foreign team upset the local team .	T
+538	538	fondler	N	T	The woman charged that her jailer was a fondler .	Not all fondlers are sexual perverts .	T
+539	539	body	N	T	The whole body filed out of the auditorium .	The student body .	T
+540	540	destroy	V	T	Hooligans destroy unprovoked .	The fire destroyed the house .	T
+544	544	custody	N	T	He was mistreated while in police custody .	He is in the custody of police .	T
+545	545	gesture	N	T	A political gesture .	A gesture of defiance .	T
+549	549	piano	N	T	Most of the works by Frédéric Chopin are for the piano .	"He can play "" Happy Birthday "" on the piano ."	T
+550	550	decussate	V	T	The fibers decussate .	This nerve decussates the other .	T
+554	554	pronunciation	N	T	That is the correct pronunciation .	The pronunciation of Chinese is difficult for foreigners .	T
+561	561	stabilize	V	T	The country will stabilize after the next election ends .	The economy stabilized .	T
+567	567	clime	N	T	Plants from a cold clime travel best in winter .	After working hard all of his life , Max retired to warmer climes in Florida .	T
+569	569	listen	V	T	Please listen carefully as I explain .	I like to listen to music .	T
+577	577	bane	N	T	The bane of my existence .	The bane of my life .	T
+578	578	license	N	T	The intolerable license with which the newspapers break ... the rules of decorum - Edmund Burke .	When liberty becomes license dictatorship is near - Will Durant .	T
+580	580	act	V	T	She wants to act Lady Macbeth , but she is too young for the role .	I started acting at the age of eleven in my local theatre .	T
+582	582	minute	N	T	Wait a minute , I 'm not ready yet !	It only takes a minute .	T
+583	583	glow	N	T	A glow of regret .	The glow of new love .	T
+585	585	near	V	T	They are nearing the coast .	The ship nears the land .	T
+591	591	bye	N	T	He had a bye in the first round .	Craig 's Crew plays the bye next week .	T
+592	592	subsidy	N	T	A subsidy for research in artificial intelligence .	Manufacturing firms are supported by government subsidies in some countries .	T
+595	595	longevity	N	T	Had unusual longevity in the company .	Her longevity as a star .	T
+597	597	preponderance	N	T	The preponderance of good over evil .	The preponderance of wealth and power .	T
+599	599	probity	N	T	In a world where financial probity may not be widespread .	He enjoys an exaggerated reputation for probity .	T
+600	600	explanation	N	T	The explanation was very simple .	The explanation was long and drawn - out .	T
+603	603	preserve	V	T	Preserve the peace in the family .	To preserve silence .	T
+605	605	log	N	T	They kept a log of all transmission by the radio station .	An email log .	T
+606	606	cost	V	T	These shoes cost $ 100 .	The bill will cost them 500 million dollars .	T
+607	607	professionalization	N	T	The professionalization of warfare .	The professionalization of American sports .	T
+608	608	pocket	V	T	Lydia put the change in her left pocket .	Lydia pocketed the change .	T
+610	610	roll	N	T	The roll of a ball .	Look at the roll of the waves .	T
+615	615	sultriness	N	T	The sultriness of her look was unmistakable .	The sultriness of lust was in the air .	T
+617	617	reality	N	T	The reality of his situation slowly dawned on him .	The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend .	T
+619	619	forbid	V	T	I forbid you to call me late at night .	The rules forbid it .	T
+625	625	spend	V	T	Spend money .	He spends far more on gambling than he does on living proper .	T
+628	628	instruction	N	T	Students receive instruction in the arts and sciences .	Instruction will be provided on how to handle difficult customers .	T
+629	629	extension	N	T	The dancer was praised for her uncanny extension .	Good extension comes from a combination of training and native ability .	T
+630	630	believe	V	T	We did n't believe his stories from the War .	I believed his report .	T
+632	632	caller	N	T	- Who 's the caller ?	There were so many callers that he finally disconnected the telephone .	T
+635	635	portmanteau	N	T	` brunch ' is a well - known portmanteau .	` motel ' is a portmanteau word made by combining ` motor ' and ` hotel ' .	T
+636	636	promise	V	T	I promise you my best effort .	I promised somebody my time .	T

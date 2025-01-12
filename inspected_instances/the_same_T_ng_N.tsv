@@ -1,0 +1,57 @@
+	id	w	p	l	c1	c2	pred
+3	3	recreation	N	T	For recreation he wrote poetry and solved crossword puzzles .	Drug abuse is often regarded as a form of recreation .	F
+24	24	branch	N	T	A branch of Congress .	We have branches in all major suburbs .	F
+39	39	opinion	N	T	In my opinion , white chocolate is better than milk chocolate .	I would like to know your opinions on the new systems .	T
+41	41	question	N	T	His claim to the property has come under question .	He obeyed without question .	F
+44	44	officer	N	T	He is an officer of the court .	The club elected its officers for the coming year .	F
+49	49	brush	N	T	She gave her hair a quick brush .	The dentist recommended two brushes a day .	F
+51	51	studio	N	T	His studio was cramped when he began as an artist .	You do n't need a studio to make a passport photograph .	F
+55	55	recrudescence	N	T	A recrudescence of racism .	A recrudescence of the symptoms .	F
+59	59	corner	N	T	He tripled to the rightfield corner .	The southeastern corner of the Mediterranean .	F
+60	60	average	N	T	He is about average in height .	The snowfall this month is below average .	F
+68	68	jockey	N	T	He 's a truck jockey .	A disc jockey .	F
+71	71	canon	N	T	The neoclassical canon .	Canons of polite society .	F
+76	76	breast	N	T	He beat his breast in anger .	The robin has a red breast .	F
+81	81	sight	N	T	He was a familiar sight on the television .	They went to Paris to see the sights .	F
+82	82	potluck	N	T	Here 's a good potluck of beans and stew .	Having arrived unannounced we had to take potluck .	F
+109	109	nowhere	N	T	He came out of nowhere .	They went on a cruise to nowhere .	T
+112	112	intention	N	T	The intention of this legislation is to boost the economy .	Good intentions are not enough .	F
+142	142	heartbeat	N	T	The policeman waited for a heartbeat in vain .	He alone gives me such heartbeats .	F
+178	178	squeaker	N	T	Which hinge is the squeaker ?	Those sneakers are squeakers .	F
+202	202	revenge	N	T	Indifference is the sweetest revenge .	When I left my wife , she tried to set fire to the house in revenge .	F
+240	240	distribution	N	T	Worldwide in distribution .	The distribution of nerve fibers .	F
+252	252	occurrence	N	T	A disease of frequent occurrence .	The occurrence ( or presence ) of life on other planets .	F
+263	263	whimsy	N	T	Whimsy can be humorous to someone with time to enjoy it .	He had a whimsy about flying to the moon .	F
+284	284	tradecraft	N	T	The CIA chief of station accepted responsibility for his agents ' failures of tradecraft .	Instructional designers are trained in something that might be called tradecraft .	F
+300	300	torrent	N	T	The houses were swept away in the torrent .	They endured a torrent of inquiries .	F
+307	307	department	N	T	His work established a new department of literature .	Baking is not my department .	F
+308	308	plume	N	T	A plume of smoke .	Grass with large plumes .	F
+309	309	curd	N	T	Bean curd .	Lemon curd .	F
+316	316	home	N	T	Canadian tariffs enabled United States lumber companies to raise prices at home .	His home is New Jersey .	F
+326	326	wateriness	N	T	The wateriness of his blood .	The haziness and wateriness of his disquisitions .	T
+329	329	operation	N	T	They organized a rescue operation .	Consolidate the companies various operations .	F
+358	358	affair	N	T	It is none of your affair .	He used a hook - shaped affair with a long handle to unlock the car .	F
+369	369	aptness	N	T	The aptness of men to follow example .	The aptness of iron to rust .	F
+370	370	pay	N	T	He wasted his pay on drink .	Many employers have rules designed to keep employees from comparing their pays .	F
+379	379	refresher	N	T	The nap was a welcome refresher .	He stopped at the bar for a quick refresher .	F
+382	382	work	N	T	The symphony was hailed as an ingenious work .	Erosion is the work of wind or water over time .	F
+384	384	homogenization	N	T	The homogenization of cream .	The network 's homogenization of political news .	F
+399	399	landing	N	T	The plane made a smooth landing .	His landing on his feet was catlike .	F
+404	404	foot	N	T	We went there by foot because we could not afford a taxi .	There is a lot of foot traffic on this street .	T
+415	415	hitter	N	T	A hard hitter .	Blacksmiths are good hitters .	F
+457	457	nightlife	N	T	In the summer the nightlife shifts to the dance clubs .	A futile search for intelligent nightlife .	T
+460	460	word	N	T	We had a word or two about it .	"There was then a long discussion of whether to capitalize words like "" east "" ."	T
+489	489	kinship	N	T	Anthropology 's kinship with the humanities .	Felt a deep kinship with the other students .	F
+495	495	step	N	T	Always a step behind .	Keep in step with the fashions .	F
+502	502	allowance	N	T	My weekly allowance of two eggs .	Travel allowance .	F
+504	504	middle	N	T	I woke up in the middle of the night .	A whole is that which has beginning , middle , and end - Aristotle .	F
+507	507	socialization	N	T	Force socialization rarely creates strong friendships , but there are exceptions .	There was too much socialization with the enlisted men .	F
+529	529	dimple	N	T	The accident created a dimple in the hood of the car .	There are approximately 336 dimples on a golf ball .	F
+533	533	assumption	N	T	The Nazi assumption of power in 1934 .	He acquired all the company 's assets for ten million dollars and the assumption of the company 's debts .	F
+534	534	brother	N	T	I would like to thank the brother who just spoke .	None of his brothers would betray him .	T
+556	556	wrong	N	T	Injustice is a heinous wrong .	He feels that you are in the wrong .	T
+611	611	property	N	T	He is a man of property .	That hat is my property .	F
+614	614	wish	N	T	It was his last wish .	They should respect the wishes of the people .	F
+618	618	defense	N	T	They died in the defense of Stalingrad .	They were developed for the defense program .	F
+622	622	system	N	T	That language has a complex system for indicating gender .	They have to operate under a system they oppose .	F
+626	626	reverence	N	T	The French treat food with gentle reverence .	The Chinese reverence for the dead .	F

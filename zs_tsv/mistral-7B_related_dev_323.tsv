@@ -1,0 +1,639 @@
+id	w	p	l	c1	c2	pred
+0	board	N	F	Room and board .	He nailed boards across the windows .	T
+1	circulate	V	F	Circulate a rumor .	This letter is being circulated among the faculty .	T
+2	hook	V	T	Hook a fish .	He hooked a snake accidentally , and was so scared he dropped his rod into the water .	T
+3	recreation	N	T	For recreation he wrote poetry and solved crossword puzzles .	Drug abuse is often regarded as a form of recreation .	F
+4	domesticity	N	F	Making a hobby of domesticity .	A royal family living in unpretentious domesticity .	T
+5	acquisition	N	F	The child 's acquisition of language .	That graphite tennis racquet is quite an acquisition .	F
+6	meeting	N	F	There was no meeting of minds .	The meeting elected a chairperson .	F
+7	nude	N	F	They swam in the nude .	The marketing rule ' nude sells ' spread from verbal to visual mainstream media in the 20th century .	T
+8	mark	N	T	He left an indelible mark on the American theater .	It was in London that he made his mark .	T
+9	association	N	F	Conditioning is a form of learning by association .	Many close associations with England .	T
+10	inclination	N	F	The alkaline inclination of the local waters .	An inclination of his head indicated his agreement .	T
+11	glaze	V	T	Glaze the bread with eggwhite .	The potter glazed the dishes .	T
+12	piggyback	V	F	An amendment to piggyback the current law .	He piggybacked her child so she could see the show .	T
+13	pick	V	F	To pick rags .	Do n't always pick on your little brother .	F
+14	belabor	V	F	Belabor the obvious .	She was belabored by her fellow students .	T
+15	bell	V	T	Bell cows .	Who will bell the cat ?	F
+16	tear	N	F	He took the manuscript in both hands and gave it a mighty tear .	There were big tears rolling down Lisa 's cheeks .	T
+17	kill	V	F	Kill the engine .	He killed the ball .	F
+18	analyze	V	T	Analyze your real motives .	The inspector analyzed the building 's soundness .	T
+19	lecture	V	T	Did you ever lecture at Harvard ?	She lectured to the class about her travels .	T
+20	rehearsal	N	T	A rehearsal will be held the day before the wedding .	He missed too many rehearsals .	T
+21	forge	V	T	We decided to forge ahead with our plans even though our biggest underwriter backed out .	He forged ahead .	T
+22	falsity	N	T	The belief that the world is flat is a falsity .	Argument could not determine its truth or falsity .	T
+23	assurance	N	F	An assurance of help when needed .	His assurance in his superiority did not make him popular .	T
+24	branch	N	T	A branch of Congress .	We have branches in all major suburbs .	T
+25	fuzz	N	F	He tried to clear his head of the whisky fuzz .	Peach fuzz .	T
+26	risk	V	T	I can not risk smoking .	Why risk your life ?	T
+27	chemistry	N	T	The chemistry of indigo .	The chemistry of iron .	T
+28	char	N	F	“ Among other native delicacies , they give you fresh char . ” .	“ I had to scrub the kitchen today , because the char could n't come ” .	F
+29	response	N	F	This situation developed in response to events in Africa .	His responses have slowed with age .	T
+30	excuse	N	T	That thing is a poor excuse for a gingerbread man . Has n't anyone taught you how to bake ?	He 's a sorry excuse of a doctor .	T
+31	bondage	N	T	He sought release from his bondage to Satan .	A self freed from the bondage of time .	T
+32	catch	N	F	The catch was only 10 fish .	He shared his catch with the others .	T
+33	shadiness	N	F	There 's too much shadiness to take good photographs .	The shadiness of their transactions .	T
+34	passage	N	F	The outward passage took 10 days .	She struggled to play the difficult passages .	T
+35	daughter	N	T	I already have a son , so I would like to have a daughter .	Her daughter cared for her in her old age .	T
+36	hold	V	T	Please hold a table at Maxim 's .	Hold a table for us at 7:00 .	T
+37	banish	V	T	Banish bad thoughts .	Banish gloom .	T
+38	sense	N	T	A keen musical sense .	A good sense of timing .	T
+39	opinion	N	T	In my opinion , white chocolate is better than milk chocolate .	I would like to know your opinions on the new systems .	T
+40	deed	N	T	He signed the deed .	I inherited the deed to the house .	T
+41	question	N	T	His claim to the property has come under question .	He obeyed without question .	F
+42	distribute	V	F	The publisher wants to distribute the book in Asia .	The function distributes the values evenly .	T
+43	return	V	T	Return her love .	Return a compliment .	F
+44	officer	N	T	He is an officer of the court .	The club elected its officers for the coming year .	T
+45	clutch	V	T	To clutch power .	She clutched her purse .	T
+46	dissipation	N	F	The dissipation of the mist .	Mindless dissipation of natural resources .	T
+47	portfolio	N	F	He remembered her because she was carrying a large portfolio .	He holds the portfolio for foreign affairs .	T
+48	play	N	F	They gave full play to the artist 's talent .	It was all done in play .	T
+49	brush	N	T	She gave her hair a quick brush .	The dentist recommended two brushes a day .	T
+50	rise	N	F	They asked for a 10 % rise in rates .	The rising of the Holy Ghost .	F
+51	studio	N	T	His studio was cramped when he began as an artist .	You do n't need a studio to make a passport photograph .	T
+52	cushion	V	T	To cushion a blow .	Cushion the blow .	T
+53	plenty	N	F	There was plenty of food for everyone .	It must have cost plenty .	T
+54	look	N	F	A look of triumph .	His look was fixed on her eyes .	T
+55	recrudescence	N	T	A recrudescence of racism .	A recrudescence of the symptoms .	T
+56	metadata	N	T	Most websites contain metadata to tell the computer how to lay the words out on the screen .	A library catalog is metadata because it describes publications .	T
+57	streak	N	T	A streak of wildness .	He has a stubborn streak .	T
+58	elapse	V	T	He allowed a month to elapse before beginning the work .	Several days elapsed before they met again .	T
+59	corner	N	T	He tripled to the rightfield corner .	The southeastern corner of the Mediterranean .	T
+60	average	N	T	He is about average in height .	The snowfall this month is below average .	T
+61	replicate	V	T	On entering a host cell , a virus will start to replicate .	Replicate the cell .	T
+62	wait	V	F	She used to wait down at the Dew Drop Inn .	Wait here until your car arrives .	T
+63	bottom	N	F	They started at the bottom of the hill .	They did much of their overseas trade in foreign bottoms .	F
+64	straggle	N	T	A straggle of followers .	A straggle of outbuildings .	T
+65	torture	N	T	In every war there are acts of torture that cause the world to shudder .	Using large dogs to attack bound , hand - cuffed prisoners is clearly torture .	T
+66	wash	V	F	This silly excuse wo n't wash in traffic court .	The cat washes several times a day .	F
+67	seem	V	F	I seem to be misunderstood by everyone .	There seems no reason to go ahead with the project now .	T
+68	jockey	N	T	He 's a truck jockey .	A disc jockey .	F
+69	sugar	V	T	Sugar your tea .	John heavily sugars his coffee .	T
+70	load	V	T	Load a car .	Load the truck with hay .	T
+71	canon	N	T	The neoclassical canon .	Canons of polite society .	T
+72	upstage	V	T	She only wore that dress to upstage everyone .	When the dog entered the stage , he upstaged the actress .	T
+73	ruin	V	F	This behavior will ruin your chances of winning the election .	The country lay ruined after the war .	T
+74	modify	V	T	Please modify this letter to make it more polite .	He modified his views on same - gender marriage .	T
+75	loose	V	T	Let loose mines .	Loose terrible plagues upon humanity .	T
+76	breast	N	T	He beat his breast in anger .	The robin has a red breast .	F
+77	invasion	N	T	An invasion of locusts .	An invasion of tourists .	T
+78	stay	V	T	Wear gloves so your hands stay warm .	Stay with me , please .	T
+79	chore	N	T	Washing dishes is a chore , but we can not just stop eating .	The farmer 's morning chores .	T
+80	stripe	N	F	Businessmen of every stripe joined in opposition to the proposal .	They earned their stripes in Kuwait .	T
+81	sight	N	T	He was a familiar sight on the television .	They went to Paris to see the sights .	T
+82	potluck	N	T	Here 's a good potluck of beans and stew .	Having arrived unannounced we had to take potluck .	T
+83	push	V	T	You need to push quite hard to get this door open .	Nora pushed through the crowd .	T
+84	nut	N	F	He was driving his car like a nut .	I kicked him in the nuts .	T
+85	share	V	T	Our children share a love of music .	The two countries share a long border .	T
+86	develop	V	F	Children must develop a sense of right and wrong .	We have developed a new theory of evolution .	T
+87	compress	V	T	The force required to compress a spring varies linearly with the displacement .	She compressed her lips .	T
+88	pressure	N	F	He used pressure to stop the bleeding .	The sensitivity of his skin to pressure and temperature was normal .	F
+89	love	V	T	I love French food .	I loved to write .	T
+90	strike	V	F	Strike an arc .	The clock struck midnight .	F
+91	shtik	N	F	He 's a shtik crazy .	How did you ever fall for a shtik like that ?	T
+92	tremor	N	F	She felt a tremor in her stomach before going on stage .	Did you feel the tremor this morning ?	T
+93	whitewash	V	F	Let 's not whitewash the crimes of Stalin .	In his sermon , the minister did n't try to whitewash over the sins of his church .	T
+94	bridge	N	T	Her glasses left marks on the bridge of her nose .	Rugby players often break the bridge of their noses .	F
+95	adoxography	N	T	Elizabethan schoolboys were taught adoxography , the art of eruditely praising worthless things .	Adoxography is particularly useful to lawyers .	T
+96	dexterity	N	T	She twirled the knife through her fingers with impressive dexterity .	Playing computer games can improve your manual dexterity .	T
+97	reflect	V	F	People do that sort of thing every day , without ever stopping to reflect on the consequences .	The teacher 's ability reflects well on the school .	F
+98	harbour	N	F	The city has an excellent natural harbour .	The neighbourhood is a well - known harbour for petty thieves .	T
+99	absorb	V	F	Absorb the costs for something .	He absorbed the knowledge or beliefs of his tribe .	T
+100	round	N	F	The round of the seasons .	The postman 's rounds .	T
+101	resolution	N	F	Printing at higher resolution will cause a reduction in performance .	They never did achieve a final resolution of their differences .	T
+102	applaud	V	T	I applaud your efforts .	Although we do n't like your methods , we applaud your motives .	T
+103	trailer	N	F	The trailer for that movie makes it seem like it would be fun .	At the end of the day , we put the snowmobiles back on the trailer .	T
+104	dinner	N	F	Guests should never be late to a dinner party .	On Sundays they had a large dinner when they returned from church .	T
+105	growth	N	F	A growth of hair .	The growth of culture .	T
+106	buzz	N	F	The buzz of excitement was so great that a formal denial was issued .	The buzz of a bumble bee .	T
+107	beat	N	F	In the old days a policeman walked a beat and knew all his people by name .	A beat of the heart .	T
+108	footprint	N	F	The computer had a desktop footprint of 10 by 16 inches .	The footprints of an earlier civilization .	F
+109	nowhere	N	T	He came out of nowhere .	They went on a cruise to nowhere .	T
+110	mince	N	T	A mince of mushrooms .	Mince tastes really good fried in a pan with some chopped onion and tomato .	T
+111	militarize	V	F	Militarize the Civil Service .	Militarize Germany again after the war .	T
+112	intention	N	T	The intention of this legislation is to boost the economy .	Good intentions are not enough .	T
+113	submerge	V	F	Submerge your head completely .	The submarine submerged in the water .	T
+114	amuse	V	T	I watch these movies because they amuse me .	The clown amused the children .	T
+115	calibrate	V	F	Calibrate a gun .	He calibrated the thermometer for the Celsius scale .	T
+116	circumference	N	T	A danger to all races over the whole circumference of the globe .	He had walked the full circumference of his land .	T
+117	tap	V	T	Tap a keg of beer .	Tap a maple tree for its syrup .	T
+118	branch	N	T	We opened a new branch in London .	Our main branch is downtown .	T
+119	peradventure	N	T	This proves beyond peradventure that he is innocent .	Proved beyond peradventure . — South .	T
+120	finish	N	T	My horse was several lengths behind at the finish .	The winner is the team with the most points at the finish .	T
+121	kick	N	F	The kick must be synchronized with the arm movements .	A sidecar is a smooth drink but it has a powerful kick .	F
+122	month	N	T	He was given a month to pay the bill .	We went on holiday for two months .	T
+123	contradistinction	N	T	Sculpture in contradistinction to painting .	We used hamburgers and soda in contradistinction to healthy food .	T
+124	remove	V	F	Remove a wrapper .	The President removed many postmasters .	F
+125	crash	V	F	You can crash here , though it 's not very comfortable .	The terrorists crashed the plane into the palace .	T
+126	smoothness	N	F	The weather system of the Pacific is determined by the uninterrupted smoothness of the ocean .	His oily smoothness concealed his guilt from the police .	T
+127	exhibition	N	T	There was an art exhibition on in the town hall .	A boat exhibition .	T
+128	cloister	V	F	Cloister the garden .	She cloistered herself in the office .	T
+129	maneuver	N	T	He made a great maneuver .	Parallel parking can be a difficult maneuver .	T
+130	mess	N	F	The house was a mess .	My boss dumped a whole mess of projects on my desk today .	T
+131	burn	V	F	Burn a CD .	My eyes are burning .	F
+132	knuckleball	N	T	Even the pitcher does n't know where his knuckleball is going .	Boston Red Sox pitcher Tim Wakefield is best known for his use of the knuckleball .	T
+133	map	V	F	Map the genes .	Map the surface of Venus .	T
+134	mandate	V	F	Mandate a colony .	The new director of the school board mandated regular tests .	T
+135	way	N	F	They did n't have much in the way of clothing .	We went our separate ways .	T
+136	shock	V	T	To shock rye .	Shock grain .	T
+137	tipper	N	T	A generous tipper .	The Americans are among the most generous tippers in the world .	T
+138	avail	V	F	It will avail them to dispose of their booty .	He availed himself of the available resources .	T
+139	button	N	T	The politician wore a bright yellow button with the slogan " Vote Smart " emblazoned on it .	They passed out campaign buttons for their candidate .	T
+140	crop	N	F	The annual crop of students brings many new ideas .	The latest crop of fashions is about to hit the stores .	T
+141	boot	V	T	Boot your computer .	When arriving at the office , first thing I do is booting my machine .	T
+142	heartbeat	N	T	The policeman waited for a heartbeat in vain .	He alone gives me such heartbeats .	F
+143	drag	V	F	Time seems to drag when you 're waiting for a bus .	The speech dragged on for two hours .	T
+144	chisel	V	F	Chisel the marble .	Who 's chiseling on the side ?	T
+145	literature	N	T	One aspect of Waterloo has not yet been treated in the literature .	The technical literature .	T
+146	snatch	N	F	Martin 's snatch at the bridle failed and the horse raced away .	Overheard snatches of their conversation .	T
+147	excite	V	T	There are drugs designed to excite certain nerves in our body .	Excite the audience .	T
+148	building	N	F	The entire building complained about the noise .	The building of the bridge will be completed in a couple of weeks .	T
+149	scallop	V	F	Scallop the hem of the dress .	Scallop the meat .	T
+150	date	V	T	Scientists often can not date precisely archeological or prehistorical findings .	To date the building of the pyramids .	T
+151	exchange	N	F	They had a bitter exchange .	An exchange of cattle for grain .	T
+152	apology	N	F	It was an apology for a meal .	The Apology of Socrates .	T
+153	spade	N	T	She led a low spade .	Spades were trumps .	T
+154	cocoon	V	T	She loves to stay at home and cocoon .	Families cocoon around the T.V. set most evenings .	T
+155	build	V	T	Build up confidence .	They had to build up their fortress to protect against attack .	T
+156	winterize	V	T	Winterize cars .	Winterize your houses .	T
+157	wish	N	F	He got his wish .	My best wishes .	T
+158	reinstatement	N	F	Her reinstatement to her former office followed quickly .	Many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement .	T
+159	watch	V	F	Put a little baking soda in some vinegar and watch what happens .	The world is watching Sarajevo .	T
+160	installation	N	F	He gave a speech as part of his installation into the hall of fame .	The telephone installation took only a few minutes .	T
+161	conceive	V	T	She can not conceive .	Assisted procreation can help those trying to conceive .	T
+162	touch	V	F	He could not touch the meaning of the poem .	Helen Keller felt the physical world by touching people and objects around her .	T
+163	percolate	V	T	Percolate coffee .	I 'll percolate some coffee .	T
+164	drought	N	F	When England defeated Pakistan it ended a ten - year drought .	Farmers most affected by the drought hope that there may yet be sufficient rain early in the growing season .	T
+165	excite	V	F	Excite the neurons .	The fireworks which opened the festivities excited anyone present .	T
+166	pull	N	T	A zipper pull .	He grabbed the pull and opened the drawer .	T
+167	fight	N	T	A fight broke out at the hockey game .	There were fights in the streets .	T
+168	breed	N	T	He experimented on a particular breed of white rats .	A breed of animal .	T
+169	mainstream	N	T	His thinking was in the American mainstream .	His ideas were well outside the mainstream , but he presented them intelligently , and we were impressed if not convinced .	T
+170	help	N	F	There 's no help for it .	I need some help with my homework .	T
+171	cognate	N	T	English is a cognate of Greek , German , Russian and Persian .	English and , Russian , Icelandic and Irish are all cognates .	T
+172	convey	V	T	To convey information .	She conveyed the message to me .	T
+173	profession	N	F	A profession of disagreement .	My father was a barrister by profession .	T
+174	protest	N	T	The senator rose to register his protest .	They finished the game under protest to the league president .	T
+175	operation	N	T	The plane 's operation in high winds .	The power of its engine determines its operation .	T
+176	strip	N	F	He welded together some pieces of strip .	She did a strip right in front of everyone .	F
+177	toss	V	T	I 'll toss you for it .	Steve tossed John the ball .	T
+178	squeaker	N	T	Which hinge is the squeaker ?	Those sneakers are squeakers .	T
+179	delta	N	T	The Nile delta .	The Mississippi River delta .	T
+180	sign	V	T	Please sign on the dotted line .	Please sign here .	T
+181	capacity	N	F	Limited runway capacity .	He should be retained in his present capacity at a higher salary .	T
+182	frame	N	F	A lace frame .	His starved flesh hung loosely on his once imposing frame .	T
+183	solemnize	V	F	The couple chose to solemnize their relationship in a secular ceremony , instead of having a wedding .	The King solemnized this day of morning .	T
+184	drawing	N	F	The drawing of water from the well .	He did complicated pen - and - ink drawings like medieval miniatures .	T
+185	cup	N	T	He put the cup back in the saucer .	The handle of the cup was missing .	T
+186	plan	V	F	Plan an attack .	He plans to be in graduate school next year .	F
+187	hit	V	F	Hit the bottle .	He tries to hit on women in bars .	T
+188	criticize	V	F	Those who criticize others often are not perfect , either .	The paper criticized the new movie .	T
+189	wake	N	F	There 's no weeping at an Irish wake .	The motorboat 's wake capsized the canoe .	F
+190	stream	N	T	He felt a stream of air .	The hose ejected a stream of water .	T
+191	block	V	F	Block the signals emitted by this station .	The thick curtain blocked the action on the stage .	T
+192	obstacle	N	T	Lack of imagination is an obstacle to one 's advancement .	The poverty of a district is an obstacle to good education .	T
+193	point	V	F	Point a gun .	It 's rude to point at other people .	T
+194	draw	N	T	The luck of the draw .	They anticipated a tough draw .	T
+195	embellish	V	T	To embellish a story , the truth .	The old book cover was embellished with golden letters .	T
+196	glimpse	N	F	From the window he could catch a glimpse of the lake .	He caught only a glimpse of the professor 's meaning .	T
+197	shuffle	V	T	You shuffle , I 'll deal .	Shuffle the cards .	T
+198	bracket	V	F	Please bracket this remark .	Bracket bookshelves .	T
+199	vary	V	T	Prices vary .	His moods vary depending on the weather .	T
+200	abridge	V	T	The new law might abridge our freedom of expression .	He had his rights abridged by the crooked sheriff .	T
+201	attack	N	F	He published an unexpected attack on my work .	An attack of diarrhea .	T
+202	revenge	N	T	Indifference is the sweetest revenge .	When I left my wife , she tried to set fire to the house in revenge .	T
+203	review	V	T	Let 's review your situation .	Before I tackle the question directly , I must briefly review historical approaches to the problem .	T
+204	tilt	N	F	The court 's tilt toward conservative rulings .	The tower had a pronounced tilt .	T
+205	consult	V	T	They had to consult before arriving at a decision .	Consult your local broker .	T
+206	reline	V	F	Reline the paper .	The old fur coat must be relined .	T
+207	liberty	N	T	At liberty to choose whatever occupation one wishes .	Liberty to think or feel or do just as one pleases .	T
+208	answer	V	T	Answer the question .	She did n't want to answer .	T
+209	carve	V	T	Carve one 's name into the bark .	That chisel carved the statue .	T
+210	square	N	F	The carpenter who built this room must have lost his square .	64 is the square of 8 .	T
+211	donate	V	T	Donate money to the orphanage .	I donated blood to the Red Cross for the victims of the earthquake .	T
+212	proliferate	V	T	We must not proliferate nuclear arms .	The flowers proliferated rapidly all spring .	T
+213	hew	V	T	Hew out a path in the rock .	One of the most widely used typefaces in the world was hewn by the English printer and typographer John Baskerville .	T
+214	keep	V	T	Can I keep my old stuffed animals ?	She kept her maiden name after she married .	T
+215	sophistication	N	F	He practiced the art of sophistication upon reason .	Understanding affine transformations requires considerable mathematical sophistication .	T
+216	shot	N	T	He trained at putting the shot .	The shot flew twenty metres , and nearly landed on the judge 's foot .	T
+217	muscle	N	F	The senators used their muscle to get the party leader to resign .	Muscle consists largely of actin and myosin filaments .	F
+218	fiddle	V	F	Do n't fiddle with the screws .	She always fiddles with her van on the weekend .	T
+219	harass	V	F	Harass the enemy .	This man harasses his female co - workers .	T
+220	minister	N	T	The minister said a prayer on behalf of the entire congregation .	Clergymen are usually called ministers in Protestant churches .	T
+221	sequence	N	F	He played the trumps in sequence .	The doctor saw a sequence of patients .	T
+222	abatement	N	T	The abatement of a nuisance is the suppression thereof .	Laws enforcing noise abatement .	T
+223	incorporate	V	F	Incorporate this document with those pertaining to the same case .	The company was incorporated in 1980 .	T
+224	chew	V	T	The steak was tough to chew as it had been cooked too long .	Chew your food and do n't swallow it !	T
+225	conclusion	N	T	The conclusion of the peace treaty .	The conclusion of a business deal .	T
+226	fiefdom	N	F	The duke 's fiefdom had been greatly expanded as a reward for his dutiful military service on behalf of the king .	Most of our company 's computers are standardized , but the IT director allows the employees in his own little fiefdom to specify their own machines .	T
+227	marriage	N	T	A marriage of ideas .	The marriage of music and dance .	T
+228	button	N	T	Pat pushed the button marked " shred " on the blender .	The elevator was operated by push buttons .	T
+229	plant	V	T	Plant bugs in the dissident 's apartment .	Plant a spy in Moscow .	T
+230	accumulate	V	T	He wishes to accumulate a sum of money .	Journals are accumulating in my office .	T
+231	wrangle	V	F	Wrangle horses .	The bar keeper threw them out , but they continued to wrangle on down the street .	T
+232	ticket	N	F	This car could be just the ticket for a small family .	Joe will be running on an anti - crime ticket .	T
+233	shake	V	F	Shake the salt out of the salt shaker .	His hands shook .	T
+234	process	V	F	Process iron .	They processed into the dining room .	F
+235	spread	V	T	The infection spread .	Optimism spread among the population .	T
+236	seize	V	F	Birds of prey often seize small mammals .	The invaders seized the land and property of the inhabitants .	T
+237	follow	V	F	We must follow closely the economic development is Cuba .	It follows that your assertion is false .	F
+238	pull	N	F	It was a long pull but we made it .	He was sidelined with a hamstring pull .	T
+239	misdirect	V	F	Misdirect the letter .	The pedestrian misdirected the out - of - town driver .	T
+240	distribution	N	T	Worldwide in distribution .	The distribution of nerve fibers .	T
+241	sit	V	T	When does the court of law sit ?	In what city is the circuit court sitting for this session .	F
+242	command	V	T	To command an army or a ship .	Command the military forces .	T
+243	touch	N	F	He has a touch of rheumatism .	He longed for the touch of her hand .	T
+244	last	V	T	Summer seems to last longer each year .	The bad weather lasted for three days .	T
+245	lead	N	T	A good lead for a job .	Joe is a great addition to our sales team , he has numerous leads in the paper industry .	T
+246	contact	V	T	I am trying to contact my sister .	He never contacted his children after he emigrated to Australia .	T
+247	send	V	T	Send me your latest results .	Nora sent the book from Paris .	T
+248	patronage	N	F	The restaurant had an upper class patronage .	Even before noon there was a considerable patronage .	T
+249	exile	N	F	He lived in exile .	She lived as an exile .	T
+250	bastion	N	T	The last bastion of communism .	A bastion against corruption .	T
+251	admit	V	T	Admit someone to the profession .	She was admitted to the New Jersey Bar .	T
+252	occurrence	N	T	A disease of frequent occurrence .	The occurrence ( or presence ) of life on other planets .	T
+253	ease	V	F	Ease the pain in your legs .	The pain eased overnight .	T
+254	safety	N	F	He ran to safety .	The reciprocal of safety is risk .	T
+255	save	N	T	The relief pitcher got credit for a save .	The goalie made a brilliant save .	T
+256	stop	V	T	Stop a car .	Stop the thief .	T
+257	exalt	V	F	These paintings exalt the imagination .	The man was exalted from a humble carpenter to a minister .	T
+258	taste	N	F	To ask at that particular time was the ultimate in bad taste .	He got a taste of life on the wild side .	T
+259	advantage	N	T	The enemy had the advantage of a more elevated position .	The experience gave him the advantage over me .	T
+260	deliberation	N	F	It was the deliberation of his act that was insulting .	The deliberations of the jury .	T
+261	allowance	V	T	The captain was obliged to allowance his crew .	Our provisions were allowanced .	T
+262	arousal	N	T	To influence the arousal of brain and behavior .	The purpose of art is the arousal of emotions .	T
+263	whimsy	N	T	Whimsy can be humorous to someone with time to enjoy it .	He had a whimsy about flying to the moon .	T
+264	strain	V	F	Do n't strain your mind too much .	The rope strained when the weight was attached .	T
+265	vision	N	F	The runners emerged from the trees into his clear vision .	He had a vision of the Virgin Mary .	T
+266	relieve	V	F	This shall not relieve either Party of any obligations .	The thief relieved me of $ 100 .	F
+267	vote	V	T	I vote that we all go home .	She voted for going to the Chinese restaurant .	T
+268	gap	N	F	Gap between income and outgo .	The exploring party went through the high gap in the mountains .	F
+269	partnership	N	T	The action teams worked in partnership with the government .	Effective language learning is a partnership between school , teacher and student .	T
+270	piece	N	F	The children acted out a comic piece to amuse the guests .	He sacrificed a piece to get a strategic advantage .	T
+271	body	N	F	The body of the car was badly rusted .	Administrative body .	F
+272	right	N	F	Take a right at the corner .	Film rights .	T
+273	fuel	N	T	More fuel is needed during the winter months .	They developed alternative fuels for aircraft .	T
+274	peg	V	T	Let 's peg the rug to the floor .	Peg a tent .	T
+275	largeness	N	F	The might have repercussions of unimaginable largeness .	A man distinguished by the largeness and scope of his views .	T
+276	affect	V	F	Will the new rules affect me ?	The medicine affects my heart rate .	T
+277	hell	N	F	War is hell .	The hell of battle .	T
+278	cost	N	T	The average cost of a new house is twice as much as t was 20 years ago .	The total cost of the new complex was an estimated $ 1.5 million .	T
+279	parade	N	F	The floats and horses in the parade were impressive , but the marching bands were really amazing .	She made a parade of her sorrows .	T
+280	preparation	N	F	He left the preparation of meals to his wife .	The resolution of one dissonance is often the preparation for another dissonance .	T
+281	sort	N	T	She served a creamy sort of dessert thing .	She wore a sort of magenta dress .	T
+282	refrigerate	V	T	Please refrigerate your uncooked meats at or below 40 Fahrenheit .	Refrigerate this medicine .	T
+283	ash	N	T	The woods planted in ash will see a different mix of species .	The ash trees are dying off .	T
+284	tradecraft	N	T	The CIA chief of station accepted responsibility for his agents ' failures of tradecraft .	Instructional designers are trained in something that might be called tradecraft .	T
+285	sense	V	F	Particle detectors sense ionization .	She immediately sensed her disdain .	T
+286	utter	V	F	Utter counterfeit currency .	He uttered strange sounds that nobody could understand .	T
+287	capital	N	T	The drug capital of Columbia .	The crime capital of Italy .	T
+288	prepare	V	F	Prepare for war .	We prepared a fish for dinner .	T
+289	gem	N	F	He had the gem set in a ring for his wife .	She 's an absolute gem .	T
+290	part	N	F	The government must do its part .	Religions in all parts of the world .	T
+291	rise	V	F	Rise to the occasion .	Her spirits rose when she heard the good news .	T
+292	hook	V	F	Hook the ball .	His opponent hooked him badly .	T
+293	tool	N	F	He was a tool , no more than a pawn to her .	I do n't have the right tools to start fiddling around with the engine .	T
+294	life	N	F	Real life .	It was a heavy play and the actors tried in vain to give life to it .	T
+295	result	V	T	Result in tragedy .	This measure will result in good or in evil .	T
+296	story	N	T	The book tells the story of two roommates .	Disney 's stories entertain adults as well as children .	T
+297	load	N	F	That 's a load off my mind .	I 'm worried that the load on that transformer will be too high .	T
+298	office	N	F	An executive or judical office .	During his first year in office .	T
+299	configure	V	T	Configure a plane for a combat mission .	Configure my new computer .	T
+300	torrent	N	T	The houses were swept away in the torrent .	They endured a torrent of inquiries .	T
+301	choke	V	F	Choke a carburetor .	This neckband is choking the cat .	F
+302	embodiment	N	F	The embodiment of hope .	A circle was the embodiment of his concept of life .	T
+303	date	N	F	His date never stopped talking .	The date for pleading .	F
+304	engrave	V	F	Engrave a letter .	Engrave a pen .	T
+305	blend	N	T	` smog ' is a blend of ` smoke ' and ` fog ' .	Their music has been described as a blend of jazz and heavy metal .	T
+306	aim	V	F	She wanted to aim a pun .	He aimed his fists towards his opponent 's face .	T
+307	department	N	T	His work established a new department of literature .	Baking is not my department .	T
+308	plume	N	T	A plume of smoke .	Grass with large plumes .	T
+309	curd	N	T	Bean curd .	Lemon curd .	T
+310	rush	N	F	The linebackers were ready to stop a rush .	Come back after the rush .	T
+311	remover	N	T	Rust remover .	Paint remover .	T
+312	care	N	F	He handled the vase with care .	Care should be taken when holding babies .	T
+313	noise	N	F	He knew that it was trash day , when the garbage collectors made all the noise .	They heard indistinct noises of people talking .	T
+314	donate	V	T	Some of the members may donate privately .	She donates to her favorite charity every month .	T
+315	earshot	N	T	I 'll row out on the lake but stay within earshot .	The children were told to stay within earshot .	T
+316	home	N	T	Canadian tariffs enabled United States lumber companies to raise prices at home .	His home is New Jersey .	T
+317	member	N	T	Canada is a member of the United Nations .	The library was a member of the interlibrary loan association .	T
+318	class	N	F	An emerging professional class .	Apologizing for losing your temper , even though you were badly provoked , showed real class .	T
+319	disable	V	F	Disable this command on your computer .	He was disabled in a car accident .	T
+320	moderate	V	T	To moderate a synod .	John moderated the discussion .	T
+321	horse	N	F	A clothes horse .	500 horse led the attack .	F
+322	tree	V	F	Her dog likes to tree squirrels .	This lot should be treed so that the house will be shaded in summer .	F
+323	attitude	N	F	The airliner had to land with a nose - up attitude after the incident .	The actor struck just the right attitude .	T
+324	afford	V	T	We ca n't afford to send our children to college .	Can you afford this car ?	T
+325	renovate	V	F	This will renovate my spirits .	They renovated the ceiling of the Sistine Chapel .	F
+326	wateriness	N	T	The wateriness of his blood .	The haziness and wateriness of his disquisitions .	T
+327	continent	N	T	Pioneers had to cross the continent on foot .	There are seven continents .	T
+328	break	N	F	Make a break for it .	He finally got his big break .	T
+329	operation	N	T	They organized a rescue operation .	Consolidate the companies various operations .	T
+330	check	N	F	As he called the role he put a check mark by each student 's name .	A check on its dependability under stress .	T
+331	influence	N	F	He was a bad influence on the children .	Used her parents ' influence to get the job .	T
+332	scrub	V	F	Surgeons must scrub prior to an operation .	She scrubbed his back .	T
+333	facility	N	F	The assembly plant is an enormous facility .	Educational facilities .	T
+334	wine	N	T	She ordered some wine for the meal .	Wine is stronger than beer .	T
+335	closure	N	F	They regretted the closure of the day care center .	He needed to grieve before he could achieve a sense of closure .	T
+336	cuisine	N	T	The restaurant is noted for its excellent cuisine .	French cuisine is considered to be one of the world 's most refined and elegant styles of cooking .	T
+337	peak	N	F	The peak of perfection .	The view from the peak was magnificent .	T
+338	liberate	V	T	To liberate the mind from prejudice .	To liberate gases .	T
+339	trip	V	T	A pedestrian was able to trip the burglar as he was running away .	The questions on the test tripped him up .	T
+340	ball	N	T	The ball at the base of the thumb .	He stood on the balls of his feet .	F
+341	move	N	T	It 's your move ! Roll the dice !	If you roll a six , you can make two moves .	T
+342	slip	V	F	Slip into something comfortable .	My grades are slipping .	T
+343	flush	V	F	Flush the meadows .	The sky flushed with rosy splendor .	T
+344	comb	V	T	Comb the wool .	Comb your hair before dinner .	T
+345	walk	N	F	After the blizzard he shoveled the front walk .	Walking is a healthy form of exercise .	T
+346	blockage	N	F	There was a blockage in the sewer , so we called out the plumber .	We had to call a plumber to clear out the blockage in the drainpipe .	T
+347	collapse	V	F	Collapse the music stand .	The school system is collapsing .	T
+348	sleep	V	T	We sleep five people in each room .	This tent sleeps six people .	T
+349	shape	N	F	Geometry is the mathematical science of shape .	He could barely make out their shapes .	T
+350	leave	V	T	Leave your child the nurse 's care .	He left the decision to his deputy .	T
+351	aliyah	N	F	Students making aliyah .	He was called on for an aliyah .	T
+352	lay	V	T	To lay a tax on land .	Lay a responsibility on someone .	T
+353	thing	N	T	A thing of the spirit .	Things of the heart .	T
+354	acquaintance	N	F	I know of the man ; but have no acquaintance with him .	I have trouble remembering the names of all my acquaintances .	T
+355	sign	V	T	Sign an intersection .	This road has been signed .	T
+356	street	N	F	Be careful crossing the street .	The whole street protested the absence of lights .	T
+357	fuss	V	F	Do n't fuss too much over the grandchildren -- they are quite big now .	She fusses over her husband .	T
+358	affair	N	T	It is none of your affair .	He used a hook - shaped affair with a long handle to unlock the car .	T
+359	direct	V	F	Direct your anger towards others , not towards yourself .	He directed all his energies into his dissertation .	T
+360	characterize	V	T	You can characterize his behavior as that of an egotist .	This poem can be characterized as a lament for a dead lover .	T
+361	strangle	V	F	The imperialist nation wanted to strangle the free trade between the two small countries .	A man in Boston has been strangling several dozen prostitutes .	F
+362	board	N	F	The board has seven members .	He got out the board and set up the pieces .	T
+363	grip	N	F	In Britain they call a bobby pin a grip .	They kept a firm grip on the two top priorities .	T
+364	swear	V	F	I swear by my grandmother 's recipes .	Before God I swear I am innocent .	T
+365	gown	N	T	The relations between town and gown are always sensitive .	In the perennial town versus gown battles , townies win some violent battles , but the collegians are winning the war .	T
+366	triangulate	V	F	Triangulate the piece of cardboard .	The land surveyor worked by triangulating the plot .	T
+367	snap	N	F	The infielder 's snap and throw was a single motion .	Children can manage snaps better than buttons .	T
+368	say	V	F	What does the law say ?	The clock says noon .	T
+369	aptness	N	T	The aptness of men to follow example .	The aptness of iron to rust .	F
+370	pay	N	T	He wasted his pay on drink .	Many employers have rules designed to keep employees from comparing their pays .	T
+371	collapse	N	T	The collapse of the old star under its own gravity .	The roof is in danger of collapse .	T
+372	go	N	F	It 's my go .	I 'll give it a go .	T
+373	go	V	T	How did your interview go ?	She was going that way anyway , so she offered to show him where it was .	T
+374	shot	N	F	The nurse gave him a flu shot .	He tried to get unposed shots of his friends .	T
+375	mixture	N	F	He drank a mixture of beer and lemonade .	The mixture of sulphuric acid and water produces heat .	T
+376	abuse	N	T	All abuse , whether physical , verbal , psychological or sexual , is bad .	The child showed signs of physical abuse .	T
+377	breeze	N	T	The breeze rustled the papers on her desk .	The breeze was cooled by the lake .	T
+378	floss	V	T	She flossed her teeth .	The hygienist flossed my teeth .	T
+379	refresher	N	T	The nap was a welcome refresher .	He stopped at the bar for a quick refresher .	T
+380	violate	V	F	Violate the sanctity of the church .	This sentence violates the rules of syntax .	F
+381	barrage	N	F	A barrage of questions .	They laid down a barrage in front of the advancing troops .	T
+382	work	N	T	The symphony was hailed as an ingenious work .	Erosion is the work of wind or water over time .	T
+383	transfer	N	F	The transfer of the music from record to tape suppressed much of the background noise .	The best student was a transfer from LSU .	F
+384	homogenization	N	T	The homogenization of cream .	The network 's homogenization of political news .	T
+385	intellect	N	F	He has a keen intellect .	Some of the world 's leading intellects were meeting there .	T
+386	toilet	N	F	He made his morning toilet and went to breakfast .	Pensions are in the toilet .	F
+387	military	N	T	Their military is the largest in the region .	He spent six years in the military .	T
+388	leave	V	T	Leave lots of time for the trip .	This leaves no room for improvement .	F
+389	scraping	N	F	All that bowing and scraping did not impress him .	They collected blood scrapings for analysis .	F
+390	breed	N	F	Google represents a new breed of entrepreneurs .	A breed of tulip .	T
+391	section	N	F	There are three synagogues in the Jewish section .	Sections from the left ventricle showed diseased tissue .	T
+392	pound	V	F	The locks pound the water of the canal .	Pound the roots with a heavy flat stone .	F
+393	connection	N	T	The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train .	The plane was late and he missed his connection in Atlanta .	T
+394	mechanism	N	T	A mechanism of social control .	Mechanisms of communication .	T
+395	gargle	V	T	Gargle with this liquid .	Every morning he gargled a little cheap Scotch .	T
+396	bang	N	F	He got a bang on the head .	They got a great bang out of it .	T
+397	activity	N	F	Catalytic activity .	They avoided all recreational activity .	T
+398	terror	N	F	He used terror to make them confess .	He was the terror of the neighborhood .	T
+399	landing	N	T	The plane made a smooth landing .	His landing on his feet was catlike .	F
+400	flowage	N	F	Rock fracture and rock flowage are different types of geological deformation .	Many campsites were located near the flowage .	T
+401	denizen	N	F	The bald eagle is a denizen of the northern part of the state .	The giant squid is one of many denizens of the deep .	T
+402	sensation	N	F	The news caused a sensation .	A sensation of touch .	T
+403	state	V	T	State your name .	State your opinion .	T
+404	foot	N	T	We went there by foot because we could not afford a taxi .	There is a lot of foot traffic on this street .	T
+405	dollar	N	F	He worships the almighty dollar .	The dollar coin has never been popular in the United States .	T
+406	view	N	F	They look the same in outward view .	The most desirable feature of the park are the beautiful views .	T
+407	need	V	T	I need him to be nice .	I needed him to go .	T
+408	role	N	F	My neighbor was the lead role in last year 's village play .	Play its role .	T
+409	policy	N	F	You should have read the small print on your policy .	It was a policy of retribution .	T
+410	urgency	N	T	They departed hurriedly because of some great urgency in their affairs .	I 'll be there , barring any urgencies .	T
+411	book	N	T	I am reading a good book on economics .	He was frustrated because he could n't find anything about dinosaurs in the book .	T
+412	scrap	N	F	The unhappy couple got into a terrible scrap .	That car is n't good for anything but scrap .	T
+413	mess	V	F	I mess with the wardroom officers .	The afternoon breeze messed up my hair .	T
+414	recognition	N	F	Territorial disputes were resolved in Guatemala 's recognition of Belize in 1991 .	The partners were delighted with the recognition of their work .	T
+415	hitter	N	T	A hard hitter .	Blacksmiths are good hitters .	F
+416	affiliation	N	F	A valuable financial affiliation .	Welcomed the affiliation of the research center with the university .	T
+417	mate	N	T	He 's my best mate .	I 'm going to the pub with a few mates .	T
+418	middle	N	F	In the middle of the marathon , David collapsed from fatigue .	Rain during the middle of April .	T
+419	diet	N	F	The diet of the Giant Panda consists mainly of bamboo .	He 's been reading a steady diet of nonfiction for the last several years .	T
+420	induction	N	F	He was ordered to report for induction into the army .	The induction of an anesthetic state .	T
+421	bull	V	F	To bull railroad bonds .	He bulled his way in .	T
+422	impregnation	N	F	The impregnation of wood with preservative .	The impregnation , whatever it was , had turned the rock blue .	T
+423	escalation	N	T	Higher wages caused an escalation of prices .	There was a gradual escalation of hostilities .	T
+424	motivation	N	F	We did not understand his motivation .	His motivation was at a high level .	T
+425	identity	N	F	A right identity , x * I = x for any x in the structure .	You can lose your identity when you join the army .	F
+426	holiday	N	T	Today is a Wiccan holiday !	No mail is delivered on federal holidays .	T
+427	fire	N	F	Clinton directed his fire at the Republican Party .	There was a fire at the school last night and the whole place burned down .	T
+428	average	V	F	If you average 10 , 20 and 24 , you get 18 .	The number of hours I work per work averages out to 40 .	T
+429	addition	N	F	The addition of a leap day every four years .	The addition of a bathroom was a major improvement .	T
+430	segment	V	T	Segment a compound word .	Segment an orange .	T
+431	shoot	V	F	Shoot cloth .	Shoot a star .	F
+432	education	N	T	A girl 's education was less important than a boy 's .	Education is a preparation for life .	T
+433	succession	N	T	A succession of failures .	A succession of stalls offering soft drinks .	F
+434	erase	V	T	The files will erase quickly .	The chalkboard erased easily .	T
+435	crush	V	F	To crush grapes .	The car crushed the toy .	T
+436	figure	V	T	Elections figure prominently in every government program .	How do the elections figure in the current pattern of internal politics ?	T
+437	eliminate	V	F	Let 's eliminate the course on Akkadian hieroglyphics .	This possibility can be eliminated from our consideration .	T
+438	house	N	T	He counted the house .	The house applauded .	F
+439	cooperation	N	T	Economic cooperation .	They agreed on a policy of cooperation .	T
+440	indent	V	F	Indent the documents .	Indent the paragraphs of a letter .	T
+441	militia	N	T	Their troops were untrained militia .	Congress shall have power to provide for calling forth the militia -- United States Constitution .	T
+442	probation	N	F	Probation is part of the sentencing process .	You 'll be on probation for first six months . After that , if you work out , they 'll hire you permanently .	T
+443	bag	V	T	Bag a few pheasants .	We bagged three deer yesterday .	T
+444	herald	N	T	Rouge Dragon is a herald at the College of Arms .	The chieftain had a herald who announced his arrival with a trumpet .	T
+445	detention	N	F	His detention was politically motivated .	The detention of tardy pupils .	T
+446	spread	V	F	The invaders spread their language all over the country .	A big oil spot spread across the water .	T
+447	accession	N	F	Accession to such demands would set a dangerous precedent .	The librarian shelved the new accessions .	T
+448	switch	V	F	Switch to a different brand of beer .	I want to switch this red dress for a green one .	T
+449	hang	V	T	Let 's hang this cute animal in the nursery .	Hang wallpaper .	T
+450	association	N	F	You can not be convicted of criminal guilt by association .	He joined the Modern Language Association .	T
+451	drop	N	F	It was a miracle that he survived the drop from that height .	That was a long drop , but fortunately I did n't break any bones .	T
+452	precaution	N	T	He put an ice pack on the injury as a precaution .	To take precautions against risks of accident .	T
+453	experience	N	F	A surprising experience .	Experience is the best teacher .	T
+454	undo	V	F	Undo the shoelace .	A single mistake undid the President and he had to resign .	T
+455	relief	N	F	He has been on relief for many years .	Was the relief supposed to be protection from future harm or compensation for past injury ?	T
+456	adhocracy	N	T	The need for informational flexibility can lead to adhocracy .	The choice between bureaucracy and adhocracy represents a common dilemma .	T
+457	nightlife	N	T	In the summer the nightlife shifts to the dance clubs .	A futile search for intelligent nightlife .	T
+458	pencil	N	F	An eyebrow pencil .	This artist 's favorite medium is pencil .	T
+459	poster	N	T	I saw a poster for it on the side of a bus .	A poster advertised the coming attractions .	T
+460	word	N	T	We had a word or two about it .	There was then a long discussion of whether to capitalize words like " east " .	T
+461	want	V	T	Want the strength to go on living .	Flood victims wanting food and shelter .	T
+462	gauntlet	N	T	Threw down the gauntlet .	Took up the gauntlet .	T
+463	bull	N	F	He was a bull of a man .	He made a bad bull of the assignment .	F
+464	flick	V	F	Flick a piece of paper across the table .	He flicked his Bic .	T
+465	treatment	N	F	His treatment of the race question is badly biased .	His treatment of space borrows from Italian architecture .	F
+466	authority	N	F	She lost all her respect and authority after turning up drunk to the meeting .	This book is the final authority on the life of Milton .	T
+467	grunt	N	T	He went from grunt to chairman in six years .	Infantrymen in Vietnam were called grunts .	T
+468	toast	N	T	That toaster can make wonderful toasts .	I ate a piece of toast for breakfast .	T
+469	hour	N	F	We live an hour from the airport .	It was their finest hour .	F
+470	dig	N	F	They set up camp next to the dig .	She takes a dig at me every chance she gets .	F
+471	dish	N	F	They served me a dish of rice .	We gave them a set of dishes for a wedding present .	T
+472	death	N	F	The animal died a painful death .	He seemed more content in death than he had ever been in life .	T
+473	upgrade	N	T	The power plant received a new upgrade .	With my phone company , I get a free upgrade every twelve months if I keep topping up 10 pounds a month .	T
+474	afflict	V	F	Afflict with the plague .	She was afflicted by the death of her parents .	T
+475	post	V	F	Post a warning at the dump .	The newspaper posted him in Timbuktu .	T
+476	group	N	T	There is a group of houses behind the hill .	A group of people gathered in front of the Parliament to demonstrate against the Prime Minister 's proposals .	T
+477	pinnacle	V	F	Pinnacle a pediment .	He did not want to be pinnacled .	T
+478	bite	V	T	Gunny invariably tried to bite her .	As soon as you bite that sandwich , you 'll know how good it is .	T
+479	finalize	V	T	Let 's finalize the proposal .	As soon as we get the plane tickets , we 'll finalize our reservations with the hotel .	T
+480	lie	V	F	Lie down on the bed until you feel better .	She lied when she told me she was only 29 .	T
+481	agency	N	F	She has free agency .	Central Intelligence Agency .	F
+482	string	N	F	A string of islands .	The strings played superlatively well .	T
+483	gnash	V	T	To gnash the air in fury .	To gnash a carpet .	F
+484	twist	V	F	Do n't twist my words .	Twist the dough into a braid .	T
+485	invite	V	F	Can I invite you for dinner on Sunday night ?	The organizers invite submissions of papers for the conference .	T
+486	brush	V	T	Brush aside the objections .	Brush the dust from the jacket .	T
+487	dad	N	T	He had n't seen his dad in years .	Dad , happy Father 's Day !	T
+488	render	V	F	Render the brick walls in the den .	The face of the child is rendered with much tenderness in this painting .	T
+489	kinship	N	T	Anthropology 's kinship with the humanities .	Felt a deep kinship with the other students .	T
+490	agency	N	F	The superintendence and agency of Providence in the natural world . --Woodward .	The Central Intelligence Agency .	T
+491	breakdown	N	F	After so much stress , he suffered a breakdown and simply gave up .	His warning came after the breakdown of talks in London .	T
+492	combust	V	F	We combust coal and other fossil fuels .	The professor combusted when the student did n't know the answer to a very elementary question .	F
+493	writing	N	F	Writing was a form of therapy for him .	The idea occurs with increasing frequency in Hemingway 's writings .	T
+494	inadequacy	N	F	Juvenile offenses often reflect an inadequacy in the parents .	The inadequacy of unemployment benefits .	T
+495	step	N	T	Always a step behind .	Keep in step with the fashions .	T
+496	flip	V	F	I 'd flip if anyone broke my phone .	He flipped when he heard that he was accepted into Princeton University .	T
+497	reappearance	N	F	The reappearance of Halley 's comet .	His reappearance as Hamlet has been long awaited .	T
+498	usage	N	T	English usage .	A usage borrowed from French .	T
+499	gig	N	T	They played a gig in New Jersey .	Our guitar player had another gig so we had to get a sub .	T
+500	demon	N	T	She 's a demon at math .	He worked like a demon to finish the job on time .	T
+501	eccentricity	N	T	For an ellipse , the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi - major axis .	A circle is an ellipse with zero eccentricity .	T
+502	allowance	N	T	My weekly allowance of two eggs .	Travel allowance .	T
+503	transplant	V	F	These delicate plants do not transplant easily .	Transplant the young rice plants .	T
+504	middle	N	T	I woke up in the middle of the night .	A whole is that which has beginning , middle , and end - Aristotle .	T
+505	spin	N	F	The campaign put a favorable spin on the story .	The skaters demonstrated their spins .	T
+506	heel	V	F	Heel a golf ball .	Heel that dance .	F
+507	socialization	N	T	Force socialization rarely creates strong friendships , but there are exceptions .	There was too much socialization with the enlisted men .	T
+508	attend	V	T	I rarely attend services at my church .	She attends class regularly .	T
+509	oppression	N	T	The tyrant 's oppression of the people .	The oppression of the poor by the aristocracy was one cause of the French Revolution .	T
+510	tap	V	T	Tap a cask of wine .	He tapped a new barrel of beer .	T
+511	touch	V	T	Please can I have a look , if I promise not to touch ?	Carrie touched his shoulder with the stick .	T
+512	work	N	T	He was indebted to the pioneering work of John Dewey .	The work of an active imagination .	T
+513	construction	N	F	The engineer marvelled at his construction .	Construction is underway on the new bridge .	T
+514	catch	V	F	I would love to have dinner but I have to catch a plane .	We caught something of his theory in the lecture .	T
+515	segregate	V	T	Experiments show clearly that genes segregate .	Many towns segregated into new counties .	F
+516	border	N	T	The rug had a wide blue border .	The borders of the garden .	T
+517	scavenge	V	F	Hyenas scavenge .	She scavenged the garbage cans for food .	T
+518	manipulation	N	T	His manipulation of his friends was scandalous .	He found that the new manager was known for his Machiavellian manipulations in his last two positions .	T
+519	flood	V	F	Flood the market with tennis shoes .	The swollen river flooded the village .	T
+520	steam	V	F	Just steam the vegetables .	Her indifference to his amorous advances really steamed the young man .	F
+521	foundation	N	F	He lacks the foundation necessary for advanced study .	The Wikimedia Foundation , Inc. is the parent organization of the Wiktionary collaborative project .	T
+522	twilight	N	F	I could just make out her face in the twilight .	He loved the twilight .	T
+523	rank	N	T	The strike was supported by the union rank and file .	He rose from the ranks to become a colonel .	T
+524	delight	N	F	The new car is a delight .	His delight to see her was obvious to all .	T
+525	path	N	T	The path of virtue .	Our paths in life led us apart .	T
+526	get	V	F	The operator could n't get Kobe because of the earthquake .	I 'll get this finished by lunchtime .	T
+527	forwarding	N	T	The forwarding of resumes to the personnel department .	The forwarding of mail to a new address is done automatically .	T
+528	fail	V	T	Did I fail the test ?	She studied hard but failed nevertheless .	T
+529	dimple	N	T	The accident created a dimple in the hood of the car .	There are approximately 336 dimples on a golf ball .	T
+530	pity	N	F	It 's a pity he could n't do it .	The blind are too often objects of pity .	T
+531	rail	N	T	He was concerned with rail safety .	He traveled by rail .	T
+532	preempt	V	T	Discussion of the emergency situation will preempt the lecture by the professor .	Live broadcast of the presidential debate preempts the regular news hour .	T
+533	assumption	N	T	The Nazi assumption of power in 1934 .	He acquired all the company 's assets for ten million dollars and the assumption of the company 's debts .	T
+534	brother	N	T	I would like to thank the brother who just spoke .	None of his brothers would betray him .	T
+535	recruit	V	F	Recruit new soldiers .	The lab director recruited an able crew of assistants .	T
+536	upset	V	T	Truman upset Dewey in the 1948 US presidential election .	The foreign team upset the local team .	T
+537	show	N	T	A show of impatience .	A good show of looking interested .	T
+538	fondler	N	T	The woman charged that her jailer was a fondler .	Not all fondlers are sexual perverts .	T
+539	body	N	T	The whole body filed out of the auditorium .	The student body .	T
+540	destroy	V	T	Hooligans destroy unprovoked .	The fire destroyed the house .	T
+541	confusion	N	F	The army retreated in confusion .	A confusion of impressions .	T
+542	stress	N	F	Some people put the stress on the first syllable of “ controversy ” ; others put it on the second .	The intensity of stress is expressed in units of force divided by units of area .	F
+543	inject	V	F	Inject hydrogen into the balloon .	Now lie back while we inject you with the anesthetic .	T
+544	custody	N	T	He was mistreated while in police custody .	He is in the custody of police .	T
+545	gesture	N	T	A political gesture .	A gesture of defiance .	T
+546	cleat	V	F	Cleat running shoes for better traction .	Cleat a line .	T
+547	repair	V	F	One can never fully repair the suffering and losses of the Jews in the Third Reich .	She repaired her TV set .	F
+548	fold	V	T	Fold up the newspaper .	Tony folded the flaps open .	T
+549	piano	N	T	Most of the works by Frédéric Chopin are for the piano .	He can play " Happy Birthday " on the piano .	T
+550	decussate	V	T	The fibers decussate .	This nerve decussates the other .	T
+551	grind	V	T	Grind lenses for glasses and cameras .	Grind an axe .	T
+552	wail	V	F	Wail in self - pity .	She wailed with pain .	T
+553	form	V	F	By adding " -ness " , you can form a noun from an adjective .	Form cylinders from the dough .	T
+554	pronunciation	N	T	That is the correct pronunciation .	The pronunciation of Chinese is difficult for foreigners .	T
+555	criticism	N	F	The senator received severe criticism from his opponent .	The politician received a lot of public criticism for his controversial stance on the issue .	T
+556	wrong	N	T	Injustice is a heinous wrong .	He feels that you are in the wrong .	T
+557	fatigue	N	T	Growing fatigue was apparent from the decline in the execution of their athletic skills .	He was hospitalized for extreme fatigue .	T
+558	cross	N	F	A mule is a cross between a horse and a donkey .	That is his cross to bear .	F
+559	handle	V	T	Do n't handle the merchandise .	About his altar , handling holy things - John Milton .	T
+560	hail	V	T	Hail a cab .	He was hailed as a hero .	T
+561	stabilize	V	T	The country will stabilize after the next election ends .	The economy stabilized .	T
+562	expect	V	T	I expect to receive wages .	We were expecting a visit from our relatives .	T
+563	shower	N	F	The game was interrupted by a brief shower .	A little shower of rose petals .	T
+564	promulgation	N	F	The promulgation was written in English .	His promulgation of the policy proved to be premature .	T
+565	hostility	N	F	He could not conceal his hostility .	He could no longer contain his hostility .	T
+566	clap	V	F	The children began to clap in time with the music .	The big bird clapped its wings .	T
+567	clime	N	T	Plants from a cold clime travel best in winter .	After working hard all of his life , Max retired to warmer climes in Florida .	T
+568	deal	N	F	A deal of trouble .	He made a deal with the devil .	T
+569	listen	V	T	Please listen carefully as I explain .	I like to listen to music .	T
+570	party	N	F	The party of the first part .	He planned a party to celebrate Bastille Day .	T
+571	section	N	F	The history of this work is discussed in the next section .	A graduate student taught sections for the professor 's lecture course .	T
+572	conserve	V	F	Conserve your energy for the ascent to the summit .	Mom always conserved the strawberries we grew in the backyard .	T
+573	joy	N	F	A joy to behold .	The joys and demands of parenthood .	T
+574	create	V	F	Create a poem .	Create one a peer .	F
+575	surface	N	F	It was not what it appeared to be on the surface .	The cloth had a pattern of red dots on a white surface .	T
+576	setting	N	F	A place setting of sterling flatware .	He changed the setting on the thermostat .	T
+577	bane	N	T	The bane of my existence .	The bane of my life .	T
+578	license	N	T	The intolerable license with which the newspapers break ... the rules of decorum - Edmund Burke .	When liberty becomes license dictatorship is near - Will Durant .	T
+579	bend	V	F	The stick does not bend .	Bend your knees .	T
+580	act	V	T	She wants to act Lady Macbeth , but she is too young for the role .	I started acting at the age of eleven in my local theatre .	T
+581	worship	V	F	They worship in the traditional manner .	Many Hindus worship Shiva .	T
+582	minute	N	T	Wait a minute , I 'm not ready yet !	It only takes a minute .	T
+583	glow	N	T	A glow of regret .	The glow of new love .	T
+584	prohibition	N	F	They were restrained by a prohibition in their charter .	In 1920 the 18th amendment to the Constitution established prohibition in the US .	T
+585	near	V	T	They are nearing the coast .	The ship nears the land .	T
+586	distance	N	F	I could see it in the distance .	The distance from New York to Chicago .	T
+587	strand	N	F	A strand of pearls .	He tried to pick up the strands of his former life .	T
+588	activity	N	F	The level of activity declines with age .	His sphere of activity .	T
+589	delay	N	F	Instant replay caused too long a delay .	The delay before the echo of a sound .	F
+590	dip	V	F	Dip the brush into the paint .	She dipped her knee .	T
+591	bye	N	T	He had a bye in the first round .	Craig 's Crew plays the bye next week .	T
+592	subsidy	N	T	A subsidy for research in artificial intelligence .	Manufacturing firms are supported by government subsidies in some countries .	T
+593	fuel	V	F	Fuel aircraft , ships , and cars .	Fuel the debate on creationism .	F
+594	club	N	F	Each club played six home games with teams in its own division .	He played the drums at a jazz club .	T
+595	longevity	N	T	Had unusual longevity in the company .	Her longevity as a star .	T
+596	appreciate	V	F	I appreciate your efforts .	The yen appreciated again !	T
+597	preponderance	N	T	The preponderance of good over evil .	The preponderance of wealth and power .	T
+598	youth	N	F	Youth everywhere rises in revolt .	Her youth and beauty is what attracted him to her .	T
+599	probity	N	T	In a world where financial probity may not be widespread .	He enjoys an exaggerated reputation for probity .	T
+600	explanation	N	T	The explanation was very simple .	The explanation was long and drawn - out .	T
+601	inject	V	F	Inject heroin .	He injected new life into the performance .	F
+602	force	N	F	A force out was recorded on the scorecard .	A public force is necessary to give security to the rights of citizens .	T
+603	preserve	V	T	Preserve the peace in the family .	To preserve silence .	T
+604	restraint	N	F	The room was simply decorated with great restraint .	The car did not have proper restraints fitted .	T
+605	log	N	T	They kept a log of all transmission by the radio station .	An email log .	T
+606	cost	V	T	These shoes cost $ 100 .	The bill will cost them 500 million dollars .	T
+607	professionalization	N	T	The professionalization of warfare .	The professionalization of American sports .	T
+608	pocket	V	T	Lydia put the change in her left pocket .	Lydia pocketed the change .	T
+609	stab	N	F	He took a stab at forecasting .	She felt a stab of excitement .	T
+610	roll	N	T	The roll of a ball .	Look at the roll of the waves .	T
+611	property	N	T	He is a man of property .	That hat is my property .	T
+612	success	N	F	His success in the marathon was unexpected .	The election was a remarkable success for the Whigs .	T
+613	sexualize	V	T	Some languages sexualize all nouns and do not have a neuter gender .	The god was sexualized and married to another god .	T
+614	wish	N	T	It was his last wish .	They should respect the wishes of the people .	T
+615	sultriness	N	T	The sultriness of her look was unmistakable .	The sultriness of lust was in the air .	T
+616	crisis	N	F	They went bankrupt during the economic crisis .	After the crisis the patient either dies or gets better .	T
+617	reality	N	T	The reality of his situation slowly dawned on him .	The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend .	T
+618	defense	N	T	They died in the defense of Stalingrad .	They were developed for the defense program .	T
+619	forbid	V	T	I forbid you to call me late at night .	The rules forbid it .	T
+620	update	V	T	I need to update my records to take account of the most recent transaction .	We updated the kitchen in the old house .	T
+621	sound	N	F	The main body of the sound ran parallel to the coast .	He strained to hear the faint sounds .	T
+622	system	N	T	That language has a complex system for indicating gender .	They have to operate under a system they oppose .	T
+623	easiness	N	F	The very easiness of the deed held her back .	There was an easiness between them .	T
+624	mire	V	F	To mire a horse or wagon .	Our people should not be mired in the past .	T
+625	spend	V	T	Spend money .	He spends far more on gambling than he does on living proper .	T
+626	reverence	N	T	The French treat food with gentle reverence .	The Chinese reverence for the dead .	T
+627	buy	V	T	$ 50 wo n't even buy a dress .	FMC has bought 565 .	T
+628	instruction	N	T	Students receive instruction in the arts and sciences .	Instruction will be provided on how to handle difficult customers .	T
+629	extension	N	T	The dancer was praised for her uncanny extension .	Good extension comes from a combination of training and native ability .	T
+630	believe	V	T	We did n't believe his stories from the War .	I believed his report .	T
+631	heritage	N	F	The world 's heritage of knowledge .	A heritage of freedom .	T
+632	caller	N	T	- Who 's the caller ?	There were so many callers that he finally disconnected the telephone .	T
+633	base	N	F	He told the painter that he wanted a yellow base with just a hint of green .	Bases include oxides and hydroxides of metals and ammonia .	T
+634	power	N	F	He needed a lot of power to hit the ball out of the stadium .	The mysterious presence of an evil power .	T
+635	portmanteau	N	T	` brunch ' is a well - known portmanteau .	` motel ' is a portmanteau word made by combining ` motor ' and ` hotel ' .	T
+636	promise	V	T	I promise you my best effort .	I promised somebody my time .	T
+637	pierce	V	F	To pierce a mystery .	The path pierced the jungle .	T

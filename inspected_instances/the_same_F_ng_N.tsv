@@ -1,0 +1,27 @@
+	id	w	p	l	c1	c2	pred
+4	4	domesticity	N	F	Making a hobby of domesticity .	A royal family living in unpretentious domesticity .	T
+32	32	catch	N	F	The catch was only 10 fish .	He shared his catch with the others .	T
+140	140	crop	N	F	The annual crop of students brings many new ideas .	The latest crop of fashions is about to hit the stores .	F
+158	158	reinstatement	N	F	Her reinstatement to her former office followed quickly .	Many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement .	T
+248	248	patronage	N	F	The restaurant had an upper class patronage .	Even before noon there was a considerable patronage .	F
+249	249	exile	N	F	He lived in exile .	She lived as an exile .	T
+277	277	hell	N	F	War is hell .	The hell of battle .	T
+298	298	office	N	F	An executive or judical office .	During his first year in office .	F
+302	302	embodiment	N	F	The embodiment of hope .	A circle was the embodiment of his concept of life .	F
+312	312	care	N	F	He handled the vase with care .	Care should be taken when holding babies .	T
+313	313	noise	N	F	He knew that it was trash day , when the garbage collectors made all the noise .	They heard indistinct noises of people talking .	F
+333	333	facility	N	F	The assembly plant is an enormous facility .	Educational facilities .	F
+346	346	blockage	N	F	There was a blockage in the sewer , so we called out the plumber .	We had to call a plumber to clear out the blockage in the drainpipe .	T
+354	354	acquaintance	N	F	I know of the man ; but have no acquaintance with him .	I have trouble remembering the names of all my acquaintances .	T
+372	372	go	N	F	It 's my go .	I 'll give it a go .	F
+375	375	mixture	N	F	He drank a mixture of beer and lemonade .	The mixture of sulphuric acid and water produces heat .	F
+401	401	denizen	N	F	The bald eagle is a denizen of the northern part of the state .	The giant squid is one of many denizens of the deep .	T
+418	418	middle	N	F	In the middle of the marathon , David collapsed from fatigue .	Rain during the middle of April .	F
+422	422	impregnation	N	F	The impregnation of wood with preservative .	The impregnation , whatever it was , had turned the rock blue .	T
+451	451	drop	N	F	It was a miracle that he survived the drop from that height .	That was a long drop , but fortunately I did n't break any bones .	T
+472	472	death	N	F	The animal died a painful death .	He seemed more content in death than he had ever been in life .	F
+522	522	twilight	N	F	I could just make out her face in the twilight .	He loved the twilight .	T
+555	555	criticism	N	F	The senator received severe criticism from his opponent .	The politician received a lot of public criticism for his controversial stance on the issue .	T
+565	565	hostility	N	F	He could not conceal his hostility .	He could no longer contain his hostility .	T
+589	589	delay	N	F	Instant replay caused too long a delay .	The delay before the echo of a sound .	F
+631	631	heritage	N	F	The world 's heritage of knowledge .	A heritage of freedom .	F
