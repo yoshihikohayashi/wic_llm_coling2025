@@ -1,6 +1,12 @@
-# Evaluating LLMs on the WiC Task
+# Evaluating LLMs Semantic Capability using the WiC Task
 The code and data relevant to the COLING 2025 paper are maintained in this repository.
 - Yoshihiko Hayashi, "Evaluating LLMs' Capability to Identify Lexical Semantic Equivalence: Probing with the Word-in-Context Task." [COLING2025](https://coling2025.org/)
+    * Abstract: This study proposes a method to evaluate the capability of large language models (LLMs) in identifying lexical semantic equivalence. 
+    The Word-in-Context (WiC) task, a benchmark designed to determine whether the meanings of a target word remain identical across different contexts, is employed as a probing task.  
+    Experiments are conducted with several LLMs, including proprietary GPT models and open-source models, using zero-shot prompting with adjectives that represent varying levels of semantic equivalence (e.g., "the same") or inequivalence (e.g., "different").  
+    The fundamental capability to identify lexical semantic equivalence in context is measured using standard accuracy metrics. Consistency across different levels of semantic equivalence is assessed via rank correlation with the expected canonical ranking of precision and recall, reflecting anticipated trends in performance across prompts.  
+    The proposed method demonstrates its effectiveness, highlighting the superior capability of GPT-4o, as it consistently outperforms other explored LLMs. 
+    Analysis of the WiC dataset, the discriminative properties of adjectives (i.e., their ability to differentiate between levels of semantic equivalence), and linguistic patterns in erroneous cases offer insights into the LLM's capability and sensitivity. These findings could inform improvements in WiC task performance, although performance enhancement is not the primary focus of this study.
 
 * Contact mailto:yoshihiko.hayashi@gmail.com
 
