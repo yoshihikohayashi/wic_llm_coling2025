@@ -3,15 +3,6 @@ The code and data relevant to the COLING 2025 paper are maintained in this repos
 - Yoshihiko Hayashi, "Evaluating LLMs' Capability to Identify Lexical Semantic Equivalence: Probing with the Word-in-Context Task." [COLING2025](https://coling2025.org/)
 
 ## Quick overview
-* To conduct classification experiments, follow these steps:
- 1. Fetch the original WiC dataset.
- 2. Use **repair_tword_index.py** to revise the tokenization of contextual sentences in the original data files.
- 3. Use **get_descriptions.py** to collect descriptions for WiC data instances. Make sure to have a valid OPENAI API KEY.
- 4. Merge relevant files to be "ready-for-experiment" by invoking **merge_wic_dataset.py**.
- 5. Conduct experiments using **classify_control.py**. Modify this script to suit your experimental requirements.
-
-* To conduct a **Zero-shot** runs, simply use zero_shot_gpt.py for GPT models and zero_shot_llama.py or zero_shot_mistral.py for those models.
-** To use the GPT models, set your own OpenAI API key in the environment variable.
 
 * **Tested environment**
   * Python 3.8.10
@@ -22,6 +13,10 @@ The code and data relevant to the COLING 2025 paper are maintained in this repos
 * Contact mailto:yoshihiko.hayashi@gmail.com
 
 ***
+
+## To reproduce the results ##
+You need to collect zero-shot results.
+
 ## Directories
 * **WiC_dataset**: This directory maintains the original Word-in-Context dataset. Please refer to the original WiC paper for details.
   * M.T. Pilehvar and J. Camacho-Collados, [WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations.](https://aclanthology.org/N19-1128/), NAACL 2019.
