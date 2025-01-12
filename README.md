@@ -2,18 +2,9 @@
 The code and data relevant to the COLING 2025 paper are maintained in this repository.
 - Yoshihiko Hayashi, "Evaluating LLMs' Capability to Identify Lexical Semantic Equivalence: Probing with the Word-in-Context Task." [COLING2025](https://coling2025.org/)
 
-## Quick overview
-
-* **Tested environment**
-  * Python 3.8.10
-  * openai 0.27.7
-  * ray 2.6.2
-  * Other standard libraries such as numpy, pandas, sklearn, etc.
-
 * Contact mailto:yoshihiko.hayashi@gmail.com
 
 ***
-
 ## To reproduce the reported results ##
 * First, collect zero-shot results. Use zero_shot_gpt.py to invoke GPT models and zero_shot_{llama, mistral}.py for Llama and Mistral models. The `zs_tsv` directory stores the result tab-separated files. The naming convention for these files is `{LLM_name}_{Adjective}_{Data_split}_{Run_ID}.tsv`. Note that the `Run_IDs` are currently fixed to `323`.
     * Remember to set your OpenAI API key in the environment variable to use the GPT models.
@@ -24,6 +15,11 @@ The code and data relevant to the COLING 2025 paper are maintained in this repos
 * Table 6: This table extracts relevant information obtained by the `main__` function in `compare_res.py`. You need to specify the dataset (`train`, `dev`, or `test`) as the argument.
 * Instances manually inspected: These WiC instances are extracted into tab-separated files in the inspected_instances directory. They are derived from the zero-shot results obtained by the GPT-4o/the same predictor.
 * Experiments on ensembling predictors: The `main` function in the `greedy_ensemble.py` file handles ensembling experiments. You can specify a combination of predictors (with some standard combinations defined in the file) as the argument. The `greedy_ensemble_results` directory stores the `.pkl` files summarizing the major results. You can use the `show_` function to read them.
+* **Tested environment**
+  * Python 3.8.10
+  * openai 0.27.7
+  * ray 2.6.2
+  * Other standard libraries such as numpy, pandas, sklearn, etc.
 
 ## WiC_dataset 
 * The `WiC_dataset` directory contains the original Word-in-Context dataset. Please refer to the original WiC paper and the corresponding website for further details.
